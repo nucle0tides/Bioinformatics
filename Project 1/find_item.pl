@@ -5,6 +5,6 @@ use warnings;
 
 while (<>) {
   if (/\/product="(.+)"/) {
-    print "$1\n";
+    print lc"$1\n";
   }
 }
