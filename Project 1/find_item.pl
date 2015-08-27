@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 while (<>) {
-  if (/\/product="(.+)"/) {
+  if (/\/organism="(.+)"/) {
     print lc"$1\n";
   }
 }
