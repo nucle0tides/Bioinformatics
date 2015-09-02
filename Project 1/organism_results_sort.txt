@@ -1,0 +1,34 @@
+acinetobacter calcoaceticus
+agrobacterium radiobacter
+agrobacterium radiobacter
+arachis hypogaea
+bos taurus
+bos taurus
+capra hircus
+capra hircus
+cavia porcellus
+cavia porcellus
+erythrina corallodendron
+geodia cydonium
+helicobacter pylori
+helicobacter pylori
+helicobacter pylori
+homo sapiens
+homo sapiens
+homo sapiens
+macropus eugenii
+mus musculus
+mus musculus
+oryctolagus cuniculus
+ovis aries
+ovis aries
+rattus norvegicus
+rattus norvegicus
+rattus norvegicus
+rattus norvegicus
+streptomyces coelicolor a3(2)
+sus scrofa
+sus scrofa domestica
+trichosurus vulpecula
+triticum aestivum
+triticum aestivum

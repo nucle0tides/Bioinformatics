@@ -1,0 +1,34 @@
+homo sapiens
+rattus norvegicus
+macropus eugenii
+oryctolagus cuniculus
+homo sapiens
+streptomyces coelicolor a3(2)
+rattus norvegicus
+trichosurus vulpecula
+erythrina corallodendron
+helicobacter pylori
+helicobacter pylori
+helicobacter pylori
+arachis hypogaea
+mus musculus
+agrobacterium radiobacter
+acinetobacter calcoaceticus
+ovis aries
+sus scrofa
+cavia porcellus
+capra hircus
+bos taurus
+triticum aestivum
+triticum aestivum
+agrobacterium radiobacter
+sus scrofa domestica
+bos taurus
+rattus norvegicus
+cavia porcellus
+homo sapiens
+rattus norvegicus
+geodia cydonium
+capra hircus
+mus musculus
+ovis aries
