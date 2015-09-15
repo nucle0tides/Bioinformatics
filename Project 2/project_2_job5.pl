@@ -16,10 +16,18 @@ sub print_seq {
  }
 }
 
+my ($left, $right) = (0, 0); 
+sub quality_seq { 
+  if (/^>\w+ 0 0 0 (\d+) (\d+)/) { # match a header line?
+ ($left, $right) = ($1, $2); # yes, save the coordinates
+ print substr($seq, $left, $right), "\n"; 
+}
+}
+
 while (<>) {
   if (/^>/) {
     if (length($seq)) {
-      print_seq();
+      quality_seq();
     }
     print;
     #reset sequence sequence 
@@ -32,9 +40,10 @@ while (<>) {
     #remove trailing newline character
     chomp;
     $seq = $seq . $_;
-    print_seq();
+    quality_seq();
   }
 }
+
 print STDERR "there are $count input sequences\n";
 
 

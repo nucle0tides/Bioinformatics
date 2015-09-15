@@ -1,0 +1,1 @@
+I struggled to completely comprehend job 5; therefore I am not 100% sure that these are the correct results. 
