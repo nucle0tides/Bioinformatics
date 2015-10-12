@@ -1,0 +1,3450 @@
+LOCUS       LCA_HUMAN     142 aa                    PRI       15-DEC-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P00709
+PID         g126001
+VERSION     P00709  GI:126001
+DBSOURCE    swissprot: locus LCA_HUMAN, accession P00709;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Jul 21, 1986.
+            annotation updated: Dec 15, 1999.
+            xrefs: gi: 186830, gi: 307104, gi: 34212, gi: 296662, gi: 1335200,
+            gi: 67416, gi: 86817, gi: 999813, gi: 4929847
+            xrefs (non-sequence databases): MIM 149750, PROSITE PS00128, PFAM
+            PF00062
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal; 3D-structure.
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Hall,L., Craig,R.K., Edbrooke,M.R. and Campbell,P.N.
+  TITLE     Comparison of the nucleotide sequence of cloned human and
+            guinea-pig pre-alpha-lactalbumin cDNA with that of chick
+            pre-lysozyme cDNA suggests evolution from a common ancestral gene
+  JOURNAL   Nucleic Acids Res. 10 (11), 3503-3515 (1982)
+  MEDLINE   82247223
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Hall,L., Emery,D.C., Davies,M.S., Parker,D. and Craig,R.K.
+  TITLE     Organization and sequence of the human alpha-lactalbumin gene
+  JOURNAL   Biochem. J. 242 (3), 735-742 (1987)
+  MEDLINE   87241386
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Findlay,J.B. and Brew,K.
+  TITLE     The complete amino-acid sequence of human -lactalbumin
+  JOURNAL   Eur. J. Biochem. 27 (1), 65-86 (1972)
+  MEDLINE   72250267
+  REMARK    SEQUENCE OF 20-142.
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Acharya,K.R., Ren,J.S., Stuart,D.I., Phillips,D.C. and Fenna,R.E.
+  TITLE     Crystal structure of human alpha-lactalbumin at 1.7 A resolution
+  JOURNAL   J. Mol. Biol. 221 (2), 571-581 (1991)
+  MEDLINE   92015247
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+REFERENCE   5  (residues 1 to 142)
+  AUTHORS   Ren,J., Stuart,D.I. and Acharya,K.R.
+  TITLE     Alpha-lactalbumin possesses a distinct zinc binding site
+  JOURNAL   J. Biol. Chem. 268 (26), 19292-19298 (1993)
+  MEDLINE   93374908
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS).
+REFERENCE   6  (residues 1 to 142)
+  AUTHORS   Chandra,N., Brew,K. and Acharya,K.R.
+  TITLE     Structural evidence for the presence of a secondary calcium binding
+            site in human alpha-lactalbumin
+  JOURNAL   Biochemistry 37 (14), 4767-4772 (1998)
+  MEDLINE   98206892
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+REFERENCE   7  (residues 1 to 142)
+  AUTHORS   Harata,K., Abe,Y. and Muraki,M.
+  TITLE     Crystallographic evaluation of internal motion of human
+            alpha-lactalbumin refined by full-matrix least-squares method
+  JOURNAL   J. Mol. Biol. 287 (2), 347-358 (1999)
+  MEDLINE   99182422
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.15 ANGSTROMS).
+REFERENCE   8  (residues 1 to 142)
+  AUTHORS   CAVALETTO,M., GIUFFRIDA,M.G., GIUNTA,C. and CONTI,A.
+  TITLE     An unusual glycosylation site in alpha-lactalbumin from human milk
+  JOURNAL   Protein Sci. 4 Suppl. 1, 119-119 (1995)
+  REMARK    CARBOHYDRATE-BINDING SITE.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     1..142
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..142
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          20..142
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Site            90
+                     /site_type="glycosylation"
+                     /note="IN 1% OF THE CHAINS."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+     Region          97..108
+                     /region_name="Calcium binding region"
+ORIGIN      
+        1 mrffvplflv gilfpailak qftkcelsql lkdidgyggi alpelictmf htsgydtqai
+       61 vennesteyg lfqisnklwc kssqvpqsrn icdiscdkfl ddditddimc akkildikgi
+      121 dywlahkalc tekleqwlce kl
+//
+
+
+
+LOCUS       LPH_RAT      1928 aa                    ROD       15-DEC-1999
+DEFINITION  LACTASE-PHLORIZIN HYDROLASE PRECURSOR (LACTASE-GLYCOSYLCERAMIDASE)
+            [INCLUDES: LACTASE ; PHLORIZIN HYDROLASE ].
+ACCESSION   Q02401
+PID         g6648054
+VERSION     Q02401  GI:6648054
+DBSOURCE    swissprot: locus LPH_RAT, accession Q02401;
+            class: standard.
+            extra accessions:Q63719,Q63712,created: Jul 1, 1993.
+            sequence updated: Dec 15, 1999.
+            annotation updated: Dec 15, 1999.
+            xrefs: gi: 57609, gi: 57610, gi: 57563, gi: 818031, gi: 205230, gi:
+            554472
+            xrefs (non-sequence databases): PROSITE PS00572, PROSITE PS00653,
+            PFAM PF00232
+KEYWORDS    Hydrolase; Glycosidase; Zymogen; Signal; Transmembrane; Repeat.
+SOURCE      Norway rat.
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 1928)
+  AUTHORS   Duluc,I., Boukamel,R., Mantei,N., Semenza,G., Raul,F. and
+            Freund,J.N.
+  TITLE     Sequence of the precursor of intestinal lactase-phlorizin hydrolase
+            from fetal rat
+  JOURNAL   Gene 103 (2), 275-276 (1991)
+  MEDLINE   91365258
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=WISTAR; TISSUE=INTESTINE
+REFERENCE   2  (residues 1 to 1928)
+  AUTHORS   Boukamel,R. and Freund,J.N.
+  TITLE     The rat LPH gene 5' region: comparative structure with the human
+            gene
+  JOURNAL   DNA Seq. 3 (2), 119-121 (1992)
+  MEDLINE   93091244
+  REMARK    SEQUENCE OF 1-192 FROM N.A.
+            STRAIN=SPRAGUE-DAWLEY
+COMMENT     On Dec 30, 1999 this sequence version replaced gi:400196.
+            -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] LPH SPLITS LACTOSE IN THE SMALL INTESTINE.
+            [CATALYTIC ACTIVITY] LACTOSE + H(2)O = D-GLUCOSE + D-GALACTOSE.
+            [CATALYTIC ACTIVITY] GLYCOSYL-N-ACYLSPHINGOSINE + H(2)O = A SUGAR +
+            N-ACYLSPHINGOSINE.
+            [SUBCELLULAR LOCATION] TYPE I MEMBRANE PROTEIN. BRUSH BORDER.
+            [TISSUE SPECIFICITY] INTESTINE.
+            [DOMAIN] THE SEQUENCE EXHIBITS 4 REGIONS (I-IV) OF INTERNAL
+            HOMOLOGY; THEREFORE LPH MIGHT HAVE EVOLVED BY TWO CYCLES OF PARTIAL
+            GENE DUPLICATION.
+            [SIMILARITY] BELONGS TO FAMILY 1 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..1928
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     1..1928
+     Protein         1..1928
+                     /product="LACTASE-PHLORIZIN HYDROLASE PRECURSOR"
+                     /EC_number="3.2.1.108"
+                     /EC_number="3.2.1.62"
+     Region          1..19
+                     /region_name="Signal"
+                     /note="BY SIMILARITY."
+     Region          7
+                     /region_name="Conflict"
+                     /note="A -> R (IN AAA41539)."
+     Region          20..867
+                     /region_name="Propeptide"
+                     /note="BETA-GLUCOSIDASE."
+     Region          22..1883
+                     /region_name="Domain"
+                     /note="EXTRACELLULAR (POTENTIAL)."
+     Region          89..1842
+                     /region_name="Domain"
+                     /note="4 X APPROXIMATE REPEATS."
+     Region          89..175
+                     /region_name="Repetitive region"
+                     /note="1."
+     Region          113
+                     /region_name="Conflict"
+                     /note="Q -> E (IN AAA41539)."
+     Region          207
+                     /region_name="Conflict"
+                     /note="E -> D (IN AAA41539)."
+     Region          365..849
+                     /region_name="Repetitive region"
+                     /note="2."
+     Region          868..1928
+                     /region_name="Mature chain"
+                     /note="LACTASE-PHLORIZIN HYDROLASE."
+     Region          886..1366
+                     /region_name="Repetitive region"
+                     /note="3."
+     Site            1067
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Site            1274
+                     /site_type="active"
+                     /note="NUCLEOPHILE (BY SIMILARITY)."
+     Region          1371..1842
+                     /region_name="Repetitive region"
+                     /note="4."
+     Site            1539
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Site            1750
+                     /site_type="active"
+                     /note="NUCLEOPHILE (BY SIMILARITY)."
+     Region          1884..1902
+                     /region_name="Transmembrane region"
+                     /note="POTENTIAL."
+     Region          1903..1928
+                     /region_name="Domain"
+                     /note="CYTOPLASMIC (POTENTIAL)."
+ORIGIN      
+        1 melpwtalfl stvllglscq gsdwesdrnf isaagpltnd lvlnlnyppg kqgsdvvsgn
+       61 tdhllcqqpl psflsqyfss lrasqvthyk vllswaqllp tgssknpdqe avqcyrqllq
+      121 slkdaqlepm vvlchqtppt ssaiqregaf adlfadyatl afqsfgdlve iwftfsdlek
+      181 vimdlphkdl kasalqtlsn ahrrafeiyh rkfssqggkl svvlkaedip ellpdpalaa
+      241 lvqgsvdfls ldlsyecqsv atlpqklsel qnlepkvkvf iytlkledcp atgtspssll
+      301 islleainkd qiqtvgfdvn aflsctsnse espscsltds lalqteqqqe tavpsspgsa
+      361 yqrvwaafan qsreerdafl qdvfpegflw gistgafnve ggwaeggrgp siwdhygnln
+      421 aaegqatakv asdsyhkpas dvallrgira qvykfsisws glfplgqkst pnrqgvayyn
+      481 klidrlldsh iepmatlfhw dlpqalqeqg gwqnesvvea fldyaafcfs tfgdrvklwv
+      541 tfhepwvmsy agygtgqhap aisdpgmasf kvahlilkah artwhlydlh hrlqqqgrvg
+      601 ivlnsdlaep ldrkspqdla aaerflhfml gwfahpifvd gdypttsaqi qhinqqcghp
+      661 laqlpeftea ekrllkgsad flglshytsr liskagrqtc tssydniggf sqhvdpewpq
+      721 taspwirvvp wgirrllrfa smeytkgklp iflagngmpv geeadlfdds vrvnyfnwyi
+      781 nevlkavked lvdvrsyivr slidgyegpl gfsqrfglyh vnfndssrpr tprksaylft
+      841 siiekngfsa kkvkrnplpv radftsrarv tdslpsevps kakisvekfs kqprferdlf
+      901 ydgrfrddfl wgvssspyqi eggwnadgkg psiwdnftht pgngvkdnat gdvacdsyhq
+      961 ldadlnilrt lkvksyrfsi swsrifptgr nstinkqgvd yynrlidslv dnnifpmvtl
+     1021 fhwdlpqalq diggwenpsl ielfdsyady cfktfgdrvk fwmtfnepwc hvvlgyssgi
+     1081 fppsvqepgw lpykvshivi kaharvyhty dekyrseqkg vislslnthw aepkdpglqr
+     1141 dveaadrmlq ftmgwfahpi fkngdypdvm kwtvgnrsel qhlassrlpt fteeeknyvr
+     1201 gtadvfchnt ytsvfvqhst prlnppsydd dmelkliemn sstgvmhqdv pwgtrrllnw
+     1261 ikeeygnipi yitengqgle nptlddteri fyhktyinea lkaykldgvd lrgysawtlm
+     1321 ddfewllgyt mrfglyyvdf nhvsrprtar asaryypdli anngmplare deflygefpk
+     1381 gfiwsaasas yqvegawrad gkglsiwdtf shtplrignd dngdvacdsy hkiaedvval
+     1441 qnlgvshyrf siawsrilpd gttkfineag lsyyvrfida llaagitpqv tiyhwdlpqa
+     1501 lqdvggwene tivqrfkeya dvlfqrlgdr vkfwitlnep fviaaqgygt gvsapgisfr
+     1561 pgtapyiagh nlikahaeaw hlyndvyrar qggtisitis sdwgeprdpt nrehveaars
+     1621 yvqfmggwfa hpifkngdyp evmktrirdr slgaglnksr lpefteseks rikgtfdffg
+     1681 fnhnttvlay nldypaafss fdadrgvasi adsswpvsgs fwlkvtpfgf rrilnwlkee
+     1741 ynnppiyvte ngvsrrgepe lndtdriyyl rsyinealka vhdkvdlrgy tvwsimdnfe
+     1801 watgfaerfg vhfvnrsdps lpriprasak fyativrcng fpdpaqgphp clqqpedaap
+     1861 taspvqsevp flglmlgiae aqtalyvlfa llllgacsla fltyntgrrs kqgnaqpsqh
+     1921 qlspissf
+//
+
+
+
+LOCUS       LCA_MACEU     140 aa                    MAM       15-DEC-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   Q06655
+PID         g729922
+VERSION     Q06655  GI:729922
+DBSOURCE    swissprot: locus LCA_MACEU, accession Q06655;
+            class: standard.
+            created: Jun 1, 1994.
+            sequence updated: Feb 1, 1995.
+            annotation updated: Dec 15, 1999.
+            xrefs: gi: 297909, gi: 556811, gi: 295496, gi: 295498, gi: 295493,
+            gi: 295494, gi: 295495
+            xrefs (non-sequence databases): HSSP P00709, PROSITE PS00128, PFAM
+            PF00062
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal.
+SOURCE      tammar wallaby.
+  ORGANISM  Macropus eugenii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Metatheria; Diprotodontia; Macropodidae; Macropus.
+REFERENCE   1  (residues 1 to 140)
+  AUTHORS   Collet,C., Joseph,R. and Nicholas,K.
+  TITLE     Cloning, cDNA analysis and prolactin-dependent expression of a
+            marsupial alpha-lactalbumin
+  JOURNAL   Reprod. Fertil. Dev. 2 (6), 693-701 (1990)
+  MEDLINE   91252496
+  REMARK    SEQUENCE FROM N.A.
+            TISSUE=MAMMARY GLAND
+REFERENCE   2  (residues 1 to 140)
+  AUTHORS   Collet,C. and Joseph,R.
+  TITLE     Exon organization and sequence of the genes encoding
+            alpha-lactalbumin and beta-lactoglobulin from the tammar wallaby
+            (Macropodidae, Marsupialia)
+  JOURNAL   Biochem. Genet. 33 (1-2), 61-72 (1995)
+  MEDLINE   95314595
+  REMARK    SEQUENCE FROM N.A.
+COMMENT     On Mar 25, 1995 this sequence version replaced gi:547830.
+            -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Macropus eugenii"
+                     /db_xref="taxon:9315"
+     Region          1..19
+                     /region_name="Signal"
+                     /note="BY SIMILARITY."
+     Protein         1..140
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+                     1..140
+     Region          20..140
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,140)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(47,131)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Site            63
+                     /site_type="glycosylation"
+                     /note="POTENTIAL."
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          97..108
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+     Region          132
+                     /region_name="Conflict"
+                     /note="I -> L (IN REF. 2)."
+ORIGIN      
+        1 mmsllsllll gialpatqai dyrkcqasqi lkehgmdkvi plpelvctmf hisglstqae
+       61 vnnhsnkeyg ifqisnngwc aekqedvans vcgilcskfl ddditddiec akkilqlpeg
+      121 lgywkahetf ciedldqwrc 
+//
+
+
+
+LOCUS       LPH_RABIT    1926 aa                    MAM       15-DEC-1999
+DEFINITION  LACTASE-PHLORIZIN HYDROLASE PRECURSOR (LACTASE-GLYCOSYLCERAMIDASE)
+            [INCLUDES: LACTASE ; PHLORIZIN HYDROLASE ].
+ACCESSION   P09849
+PID         g126429
+VERSION     P09849  GI:126429
+DBSOURCE    swissprot: locus LPH_RABIT, accession P09849;
+            class: standard.
+            created: Mar 1, 1989.
+            sequence updated: Mar 1, 1989.
+            annotation updated: Dec 15, 1999.
+            xrefs: gi: 1616, gi: 1617, gi: 89934
+            xrefs (non-sequence databases): HSSP P26205, PROSITE PS00572,
+            PROSITE PS00653, PFAM PF00232
+KEYWORDS    Hydrolase; Glycosidase; Zymogen; Signal; Transmembrane; Repeat.
+SOURCE      Oryctolagus cuniculus.
+  ORGANISM  Oryctolagus cuniculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Lagomorpha; Leporidae; Oryctolagus.
+REFERENCE   1  (residues 1 to 1926)
+  AUTHORS   Mantei,N., Villa,M., Enzler,T., Wacker,H., Boll,W., James,P.,
+            Hunziker,W. and Semenza,G.
+  TITLE     Complete primary structure of human and rabbit lactase-phlorizin
+            hydrolase: implications for biosynthesis, membrane anchoring and
+            evolution of the enzyme
+  JOURNAL   EMBO J. 7 (9), 2705-2713 (1988)
+  MEDLINE   89030634
+  REMARK    SEQUENCE FROM N.A., AND PARTIAL SEQUENCE.
+            STRAIN=NEW ZEALAND WHITE
+REFERENCE   2  (residues 1 to 1926)
+  AUTHORS   Wacker,H., Keller,P., Falchetto,R., Legler,G. and Semenza,G.
+  TITLE     Location of the two catalytic sites in intestinal lactase-phlorizin
+            hydrolase. Comparison with sucrase-isomaltase and with other
+            glycosidases, the membrane anchor of lactase-phlorizin hydrolase
+  JOURNAL   J. Biol. Chem. 267 (26), 18744-18752 (1992)
+  MEDLINE   92406791
+  REMARK    ACTIVE SITES.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] LPH SPLITS LACTOSE IN THE SMALL INTESTINE.
+            [CATALYTIC ACTIVITY] LACTOSE + H(2)O = D-GLUCOSE + D-GALACTOSE.
+            [CATALYTIC ACTIVITY] GLYCOSYL-N-ACYLSPHINGOSINE + H(2)O = A SUGAR +
+            N-ACYLSPHINGOSINE.
+            [SUBCELLULAR LOCATION] TYPE I MEMBRANE PROTEIN. BRUSH BORDER.
+            [TISSUE SPECIFICITY] INTESTINE.
+            [DOMAIN] THE SEQUENCE EXHIBITS 4 REGIONS (I-IV) OF INTERNAL
+            HOMOLOGY; THEREFORE LPH MIGHT HAVE EVOLVED BY TWO CYCLES OF PARTIAL
+            GENE DUPLICATION.
+            [SIMILARITY] BELONGS TO FAMILY 1 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..1926
+                     /organism="Oryctolagus cuniculus"
+                     /db_xref="taxon:9986"
+                     1..1926
+     Protein         1..1926
+                     /product="LACTASE-PHLORIZIN HYDROLASE PRECURSOR"
+                     /EC_number="3.2.1.108"
+                     /EC_number="3.2.1.62"
+     Region          1..19
+                     /region_name="Signal"
+     Region          20..866
+                     /region_name="Propeptide"
+                     /note="BETA-GLUCOSIDASE."
+     Region          20..1882
+                     /region_name="Domain"
+                     /note="EXTRACELLULAR (POTENTIAL)."
+     Region          79..1800
+                     /region_name="Domain"
+                     /note="4 X APPROXIMATE REPEATS."
+     Region          79..172
+                     /region_name="Repetitive region"
+                     /note="1."
+     Region          360..845
+                     /region_name="Repetitive region"
+                     /note="2."
+     Region          867..1926
+                     /region_name="Mature chain"
+                     /note="LACTASE-PHLORIZIN HYDROLASE."
+     Region          881..1367
+                     /region_name="Repetitive region"
+                     /note="3."
+     Site            1063
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Site            1271
+                     /site_type="active"
+                     /note="NUCLEOPHILE."
+     Region          1375..1800
+                     /region_name="Repetitive region"
+                     /note="4."
+     Site            1536
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Site            1747
+                     /site_type="active"
+                     /note="NUCLEOPHILE."
+     Region          1883..1901
+                     /region_name="Transmembrane region"
+                     /note="POTENTIAL."
+     Region          1902..1926
+                     /region_name="Domain"
+                     /note="CYTOPLASMIC (POTENTIAL)."
+ORIGIN      
+        1 melfwsivft vllsfscrgs dwesdsnfis aagplttdll lslqypqgnq tsdfaaggkd
+       61 lyvcsqplpa flpeyfsslr aseithykvf lswaqllpag hsgdpdgnav rcyrqlleal
+      121 raaqlqpmvv lhhqhlpass alrsavfadl faeyatfafh afgdlvgvwl tfsdleaair
+      181 elpqpesras rlqllteahr kayeiyhqky aaqggkvsvv lqaeeisell lesstsalak
+      241 dsidflsldl syecqsemsl peklsklqti epkvkvfift lrlqdcpssr kspasllfsf
+      301 ieainkdqvl tlgfdvnafl ncsstskksi scfltdslal qtdheraarn sapvstyqrv
+      361 wemfahqpra erdaflqdtf pqgflwgvst gafnveggwa eggrgpsvwd qfghlkaaqg
+      421 qatpevasds yykwasdval lrglraqvyk fsiswsrifp mgrgsspspq gvayynklid
+      481 slldshiepm atlfhwdlpq alqdeggwqn esvvdafvdy aafcfsafgn rvklwvtfhe
+      541 pwvmsyagyg tgqhapgisd pgiasfqvah lvlkahartw hhynshhrpq qqgrvgivln
+      601 sdwaeplspe rpedlaaser flhfmlgwfa hpifvdgdyp atmkaqiqqr neqcpspvaq
+      661 lpeftdtekq llkgsadflg lshytsrlis kapedscips ydtiggfsqh tdpawpqtss
+      721 pwirvvpwgi rrllqfvsle ytkgkvpiyl agngmpiges enllsdslrv dyfnqyinev
+      781 lkaikedsvd vrsyiarslm dgfegpagys qrfglyhvnf nesskprtpr ksaflltsii
+      841 ekngfltkav kqplppnsah lpsktrasal psevpskakv vwekfsnqtk ferdlfyhgt
+      901 frddflwgvs ssayqiegaw dadgkgpsiw dnfthtpgng vtdnstgdia cdsynqldad
+      961 lnvlralkvk ayrfslswsr ifptgtnssi nshgvdyynr lidgllasdi fpmvtlfhwd
+     1021 lpqalqdigg wenpslidlf dsyadycfqt fgdrvkfwit fneptyysww sygsgtfppn
+     1081 vndpgwapyr ishalikaha rvyhtydeky rqsqngvisl slvaqwaepk spdvlrdvea
+     1141 adrkmqftlg wyahpifktg dypdamkwkv gnrselqhla tsrlpsftee eksyirgtad
+     1201 vfclntyssk ivqhktpaln ppsyeddqel aeeedtswpt tamnraasfg mrrllnwike
+     1261 eygdipiyit engvgltnpr ledidrifyy ktyinealka yrldgvnlrg yfawslmdnf
+     1321 ewlqgytikf glyhvdfenv nrprtarisa syytelitnn gmplpsedef vygqfpegfv
+     1381 wststaafqi egawradgkg lgiwdtftht rlkienddia dvacdsyhki sedvvalqnl
+     1441 avthyrfsis wsrilpdgtt nyineaglny yvrlidalla anikpqvtmy hfdlpqalqd
+     1501 vggwenetiv qrfkeyadvl fqrlgdkvkf witlnepfvv ayhgygtgly apgiyfrpgt
+     1561 apyivghnli kahaeawhly ndvyrasqgg visitissdw aeprdpsnqe dveaakryvq
+     1621 fmggwfahpi fkngdynevm ktqirersla aglnesrlpe ftesekrrin gtydffgfnh
+     1681 yttvlaynfn ypsimstvda drgvasivdr swpgsgsywl kmtpfgfrri lnwikeeynn
+     1741 ppiyvtengv shrgdsylnd ttriyylrsy inealkavqq dkvdlrgytv wtlmdnfewy
+     1801 tgfsdkfglh fvnysdpslp ripresakfy asivrcngfp dpaegphpcl lqpedtdptm
+     1861 spvsqeevqf lglslgstea etalyvlfsl mllgvcglaf lsyalckssk qrkklsqqel
+     1921 spvssf
+//
+
+
+
+LOCUS       LPH_HUMAN    1927 aa                    PRI       15-DEC-1999
+DEFINITION  LACTASE-PHLORIZIN HYDROLASE PRECURSOR (LACTASE-GLYCOSYLCERAMIDASE)
+            [INCLUDES: LACTASE ; PHLORIZIN HYDROLASE ].
+ACCESSION   P09848
+PID         g126428
+VERSION     P09848  GI:126428
+DBSOURCE    swissprot: locus LPH_HUMAN, accession P09848;
+            class: standard.
+            created: Mar 1, 1989.
+            sequence updated: Mar 1, 1989.
+            annotation updated: Dec 15, 1999.
+            xrefs: gi: 34399, gi: 34400, gi: 187051, gi: 187053, gi: 187035,
+            gi: 187036, gi: 187037, gi: 187038, gi: 187039, gi: 187040, gi:
+            187041, gi: 187042, gi: 187043, gi: 187044, gi: 187045, gi: 187046,
+            gi: 187047, gi: 187048, gi: 187049, gi: 187050, gi: 86949
+            xrefs (non-sequence databases): HSSP P26205, MIM 603202, MIM
+            223000, MIM 223100, PROSITE PS00572, PROSITE PS00653, PFAM PF00232
+KEYWORDS    Hydrolase; Glycosidase; Zymogen; Signal; Transmembrane; Repeat.
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 1927)
+  AUTHORS   Mantei,N., Villa,M., Enzler,T., Wacker,H., Boll,W., James,P.,
+            Hunziker,W. and Semenza,G.
+  TITLE     Complete primary structure of human and rabbit lactase-phlorizin
+            hydrolase: implications for biosynthesis, membrane anchoring and
+            evolution of the enzyme
+  JOURNAL   EMBO J. 7 (9), 2705-2713 (1988)
+  MEDLINE   89030634
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 1927)
+  AUTHORS   Boll,W., Wagner,P. and Mantei,N.
+  TITLE     Structure of the chromosomal gene and cDNAs coding for
+            lactase-phlorizin hydrolase in humans with adult-type hypolactasia
+            or persistence of lactase
+  JOURNAL   Am. J. Hum. Genet. 48 (5), 889-902 (1991)
+  MEDLINE   91206402
+  REMARK    SEQUENCE FROM N.A.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] LPH SPLITS LACTOSE IN THE SMALL INTESTINE.
+            [CATALYTIC ACTIVITY] LACTOSE + H(2)O = D-GLUCOSE + D-GALACTOSE.
+            [CATALYTIC ACTIVITY] GLYCOSYL-N-ACYLSPHINGOSINE + H(2)O = A SUGAR +
+            N-ACYLSPHINGOSINE.
+            [SUBCELLULAR LOCATION] TYPE I MEMBRANE PROTEIN. BRUSH BORDER.
+            [TISSUE SPECIFICITY] INTESTINE.
+            [DOMAIN] THE SEQUENCE EXHIBITS 4 REGIONS (I-IV) OF INTERNAL
+            HOMOLOGY; THEREFORE LPH MIGHT HAVE EVOLVED BY TWO CYCLES OF PARTIAL
+            GENE DUPLICATION.
+            [DISEASE] DEFECTS IN LPH ARE THE CAUSE OF DISACCHARIDE INTOLERANCE
+            TYPE II (OR CONGENITAL LACTASE DEFICIENCY) OR III (OR ADULT LACTASE
+            DEFICIENCY). IN MANY HUMAN POPULATIONS THE ACTIVITY OF LPH DECLINES
+            IN ADULTS, LEADING TO ADULT-TYPE HYPOLACTASIA, WHEREAS IN OTHER
+            POPULATIONS THE HIGH ACTIVITY PERSISTS.
+            [SIMILARITY] BELONGS TO FAMILY 1 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..1927
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..1927
+                     /product="LACTASE-PHLORIZIN HYDROLASE PRECURSOR"
+                     /EC_number="3.2.1.108"
+                     /EC_number="3.2.1.62"
+                     1..1927
+     Region          20..866
+                     /region_name="Propeptide"
+                     /note="BETA-GLUCOSIDASE."
+     Region          20..1882
+                     /region_name="Domain"
+                     /note="EXTRACELLULAR (POTENTIAL)."
+     Region          87..1841
+                     /region_name="Domain"
+                     /note="4 X APPROXIMATE REPEATS."
+     Region          87..172
+                     /region_name="Repetitive region"
+                     /note="1."
+     Region          219
+                     /region_name="Conflict"
+                     /note="V -> I (IN REF. 2)."
+     Region          363..848
+                     /region_name="Repetitive region"
+                     /note="2."
+     Region          867..1927
+                     /region_name="Mature chain"
+                     /note="LACTASE-PHLORIZIN HYDROLASE."
+     Region          884..1365
+                     /region_name="Repetitive region"
+                     /note="3."
+     Site            1065
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Site            1273
+                     /site_type="active"
+                     /note="NUCLEOPHILE (BY SIMILARITY)."
+     Region          1370..1841
+                     /region_name="Repetitive region"
+                     /note="4."
+     Site            1538
+                     /site_type="active"
+                     /note="PROTON DONOR (POTENTIAL)."
+     Region          1639
+                     /region_name="Conflict"
+                     /note="N -> S (IN REF. 2)."
+     Site            1749
+                     /site_type="active"
+                     /note="NUCLEOPHILE (BY SIMILARITY)."
+     Region          1883..1901
+                     /region_name="Transmembrane region"
+                     /note="POTENTIAL."
+     Region          1902..1927
+                     /region_name="Domain"
+                     /note="CYTOPLASMIC (POTENTIAL)."
+ORIGIN      
+        1 melswhvvfi allsfscwgs dwesdrnfis tagpltndll hnlsgllgdq ssnfvagdkd
+       61 myvchqplpt flpeyfsslh asqithykvf lswaqllpag stqnpdektv qcyrrllkal
+      121 ktarlqpmvi lhhqtlpast lrrteafadl fadyatfafh sfgdlvgiwf tfsdleevik
+      181 elphqesras qlqtlsdahr kayeiyhesy afqggklsvv lraedipell leppisalaq
+      241 dtvdflsldl syecqneasl rqklsklqti epkvkvfifn lklpdcpstm knpasllfsl
+      301 feainkdqvl tigfdinefl scsssskksm scsltgslal qpdqqqdhet tdsspasayq
+      361 rvweafanqs raerdaflqd tfpegflwga stgafnvegg waeggrgvsi wdprrplntt
+      421 egqatlevas dsyhkvasdv allcglraqv ykfsiswsri fpmghgssps lpgvayynkl
+      481 idrlqdagie pmatlfhwdl pqalqdhggw qnesvvdafl dyaafcfstf gdrvklwvtf
+      541 hepwvmsyag ygtgqhppgi sdpgvasfkv ahlvlkahar twhhynshhr pqqqghvgiv
+      601 lnsdwaepls perpedlras erflhfmlgw fahpvfvdgd ypatlrtqiq qmnrqcshpv
+      661 aqlpefteae kqllkgsadf lglshytsrl isnapqntci psydtiggfs qhvnhvwpqt
+      721 ssswirvvpw girrllqfvs leytrgkvpi ylagngmpig esenlfddsl rvdyfnqyin
+      781 evlkaikeds vdvrsyiars lidgfegpsg ysqrfglhhv nfsdssksrt prksayffts
+      841 iiekngfltk gakrllppnt vnlpskvraf tfpsevpska kvvwekfssq pkferdlfyh
+      901 gtfrddflwg vsssayqieg awdadgkgps iwdnfthtpg snvkdnatgd iacdsyhqld
+      961 adlnmlralk vkayrfsisw srifptgrns sinshgvdyy nrlinglvas nifpmvtlfh
+     1021 wdlpqalqdi ggwenpalid lfdsyadfcf qtfgdrvkfw mtfnepmyla wlgygsgefp
+     1081 pgvkdpgwap yriahtvika harvyhtyde kyrqeqkgvi slslsthwae pkspgvprdv
+     1141 eaadrmlqfs lgwfahpifr ngdypdtmkw kvgnrselqh latsrlpsft eeekrfirat
+     1201 advfclntyy srivqhktpr lnppsyeddq emaeeedpsw pstamnraap wgtrrllnwi
+     1261 keeygdipiy itengvgltn pntedtdrif yhktyineal kayrldgidl rgyvawslmd
+     1321 nfewlngytv kfglyhvdfn ntnrprtara saryytevit nngmplared eflygrfpeg
+     1381 fiwsaasaay qiegawradg kglsiwdtfs htplrvenda igdvacdsyh kiaedlvtlq
+     1441 nlgvshyrfs iswsrilpdg ttryineagl nyyvrlidtl laasiqpqvt iyhwdlpqtl
+     1501 qdvggwenet ivqrfkeyad vlfqrlgdkv kfwitlnepf viayqgygyg taapgvsnrp
+     1561 gtapyivghn likahaeawh lyndvyrasq ggvisitiss dwaeprdpsn qedveaarry
+     1621 vqfmggwfah pifkngdyne vmktrirdrs laaglnksrl peftesekrr ingtydffgf
+     1681 nhyttvlayn lnyataissf dadrgvasia drswpdsgsf wlkmtpfgfr rilnwlkeey
+     1741 ndppiyvten gvsqreetdl ndtariyylr tyinealkav qdkvdlrgyt vwsamdnfew
+     1801 atgfserfgl hfvnysdpsl pripkasakf yasvvrcngf pdpatgphac lhqpdagpti
+     1861 spvrqeevqf lglmlgttea qtalyvlfsl vllgvcglaf lsykyckrsk qgktqrsqqe
+     1921 lspvssf
+//
+
+
+
+LOCUS       CAB61177      443 aa                    BCT       23-NOV-1999
+DEFINITION  probable solute-binding lipoprotein.
+ACCESSION   CAB61177
+PID         g6434730
+VERSION     CAB61177.1  GI:6434730
+DBSOURCE    embl locus SCF91, accession AL132973.1
+KEYWORDS    .
+SOURCE      Streptomyces coelicolor A3(2).
+  ORGANISM  Streptomyces coelicolor A3(2)
+            Bacteria; Firmicutes; Actinobacteria; Actinobacteridae;
+            Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces.
+REFERENCE   1  (residues 1 to 443)
+  AUTHORS   Redenbach,M., Kieser,H.M., Denapaite,D., Eichner,A., Cullum,J.,
+            Kinashi,H. and Hopwood,D.A.
+  TITLE     A set of ordered cosmids and a detailed genetic and physical map
+            for the 8 Mb Streptomyces coelicolor A3(2) chromosome
+  JOURNAL   Mol. Microbiol. 21 (1), 77-96 (1996)
+  MEDLINE   97000351
+REFERENCE   2  (residues 1 to 443)
+  AUTHORS   Oliver,K. and Harris,D.
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 443)
+  AUTHORS   Thomson,N.R., Parkhill,J., Barrell,B.G. and Rajandream,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-1999) Streptomyces coelicolor sequencing project,
+            Sanger Centre, Wellcome Trust Genome Campus, Hinxton, Cambridge
+            CB10 1SA E-mail: barrell@sanger.ac.uk Cosmids supplied by Prof.
+            David A. Hopwood, [3] John Innes Centre, Norwich Research Park,
+            Colney, Norwich, Norfolk NR4 7UH, UK
+COMMENT     Notes:
+            Streptomyces coelicolor sequencing at The Sanger Centre is funded
+            by the BBSRC and Beowulf Genomics
+            Details of S. coelicolor sequencing at the Sanger Centre are
+            available on the World Wide Web.
+            (URL; http://www.sanger.ac.uk/Projects/S_coelicolor/) 
+            CDS are numbered using the following system eg SC7B7.01c. SC (S.
+            coelicolor), 7B7 (cosmid name), .01 (first CDS), c (complementary
+            strand).
+            The more significant matches with motifs in the PROSITE database
+            are also included but some of these may be fortuitous. 
+            The length in codons is given for each CDS.
+            Usually the highest scoring match found by fasta -o is given for
+            CDS which show significant similarity to other CDS in the database.
+            The position of possible ribosome binding site sequences are given
+            where these have been used to deduce the initiation codon. 
+            Gene prediction is based on positional base preference in codons
+            using a specially developed Hidden Markov Model (Krogh et al.,
+            Nucleic Acids Research, 22(22):4768-4778(1994)) and the FramePlot
+            program of Bibb et al., Gene 30:157-66(1984) as implemented at
+            http://www.nih.go.jp/
+            jun/cgi-bin/frameplot.pl. CAUTION:  We may not have predicted the
+            correct initiation codon.  Where possible we choose an initiation
+            codon (atg, gtg, ttg or (att)) which is preceded by an upstream
+            ribosome binding site sequence (optimally 5-13bp before the
+            initiation codon).  If this cannot be identified we choose the most
+            upstream initiation codon.
+            IMPORTANT: This sequence MAY NOT be the entire insert of the
+            sequenced clone.  It may be shorter because we only sequence
+            overlapping sections once, or longer, because we arrange for a
+            small overlap between neighbouring submissions. 
+            Cosmid F91 Overlaps with cosmid StF15 on the AseI-F genomic
+            restriction fragment.
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Streptomyces coelicolor A3(2)"
+                     /strain="A3(2)"
+                     /db_xref="taxon:100226"
+                     /clone="cosmid F91"
+     Protein         1..443
+                     /product="probable solute-binding lipoprotein."
+     CDS             1..443
+                     /gene="SCF91.20"
+                     /coded_by="AL132973.1:15192..16523"
+                     /transl_table=11
+                     /note="SCF91.20, probable solute-binding lipoprotein, len:
+                     443 aa. Similar to several solute-binding proteins e.g.
+                     Agrobacterium radiobacter SW:LACE_AGRRD(EMBL:X66596)
+                     lactose-binding protein precursor (422 aa), fasta scores
+                     opt: 270 z-score: 303.1 E(): 1.6e-09 23.5% identity in 387
+                     aa overlap and Streptomyces coelicolor
+                     TR:P72397(EMBL:Y07706) putative maltose-binding protein
+                     MalE (423 aa), fasta scores opt: 345 z-score: 386.1 E():
+                     4e-14 25.5% identity in 459 aa overlap. Contains a Pfam
+                     match to entry PF01547 SBP_bacterial_1, Bacterial
+                     extracellular solute-binding protein. Also contains an
+                     appropriately positioned Prosite hit to PS00013
+                     Prokaryotic membrane lipoprotein lipid attachment site and
+                     a possible N-terminal signal sequence."
+ORIGIN      
+        1 mpgrpsrrsv laamtalpla gaasacsggn gassartgtt tritfwsalr gsqevvdafn
+       61 rthrtiqvef qqipsggqgg yaklsnaara gnapdvatle ypqvpgfaid gvarditdlv
+      121 sdglrrkllp qalglttfer rvfavpldve pmvmhyradl fdhyglqvag twdefaeqaa
+      181 tvrrkaadrr lvlfptdgmt qfacyawqag aqwfdtskga wnvsladaps rrvaeywqgl
+      241 idrddvfvna vesrqsdaqi gnglvltrlt gawdagaqmn arpgqkgqwr iapmpqwdta
+      301 apstgthggs tfavtedseh peaamefiew qvshpdalra rlssgtssqy paapglvavg
+      361 rdafdrtyyg gqdiyglfer eaekigdqwl wgprmsatqk vmqdsfarvg ggqgslvesl
+      421 rtaqegtmpd lkalglsttq hst
+//
+
+
+
+LOCUS       LCA_RAT       159 aa                    ROD       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P00714
+PID         g126007
+VERSION     P00714  GI:126007
+DBSOURCE    swissprot: locus LCA_RAT, accession P00714;
+            class: standard.
+            extra accessions:P00715,created: Jul 21, 1986.
+            sequence updated: Jul 21, 1986.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 56547, gi: 297550, gi: 56545, gi: 1334301, gi: 67423,
+            gi: 67424
+            xrefs (non-sequence databases): HSSP P00709, PFAM PF00062, PROSITE
+            PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal.
+SOURCE      Norway rat.
+  ORGANISM  Rattus norvegicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Rattus.
+REFERENCE   1  (residues 1 to 159)
+  AUTHORS   Qasba,P.K. and Safaya,S.K.
+  TITLE     Similarity of the nucleotide sequences of rat alpha-lactalbumin and
+            chicken lysozyme genes
+  JOURNAL   Nature 308 (5957), 377-380 (1984)
+  MEDLINE   84168126
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 159)
+  AUTHORS   Dandekar,A.M. and Qasba,P.K.
+  TITLE     Rat alpha-lactalbumin has a 17-residue-long COOH-terminal
+            hydrophobic extension as judged by sequence analysis of the cDNA
+            clones
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 78 (8), 4853-4857 (1981)
+  MEDLINE   82060152
+  REMARK    SEQUENCE OF 44-159 FROM N.A.
+REFERENCE   3  (residues 1 to 159)
+  AUTHORS   Prasad,R.V., Butkowski,R.J., Hamilton,J.W. and Ebner,K.E.
+  TITLE     Amino acid sequence of rat alpha-lactalbumin: a unique
+            alpha-lactalbumin
+  JOURNAL   Biochemistry 21 (7), 1479-1482 (1982)
+  MEDLINE   82206628
+  REMARK    SEQUENCE OF 20-159.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..159
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+                     1..159
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..159
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          20..159
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          38..40
+                     /region_name="Conflict"
+                     /note="QGI -> EGV (IN REF. 3)."
+     Region          43
+                     /region_name="Conflict"
+                     /note="L -> P (IN REF. 3)."
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          57..60
+                     /region_name="Conflict"
+                     /note="SQAI -> TEAS (IN REF. 3)."
+     Region          63
+                     /region_name="Conflict"
+                     /note="N -> D (IN REF. 3)."
+     Site            64
+                     /site_type="glycosylation"
+     Region          78
+                     /region_name="Conflict"
+                     /note="N -> D (IN REF. 3)."
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          82..86
+                     /region_name="Conflict"
+                     /note="SSEFP -> ENQFV (IN REF. 3)."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          97..108
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+     Region          121
+                     /region_name="Conflict"
+                     /note="D -> N (IN REF. 3)."
+     Region          124
+                     /region_name="Conflict"
+                     /note="K -> L (IN REF. 3)."
+     Region          153..154
+                     /region_name="Conflict"
+                     /note="NS -> DG (IN REF. 3)."
+ORIGIN      
+        1 mmrfvplfla cislpafqat eftkcevsha iedmdgyqgi sllewtcvlf htsgydsqai
+       61 vknngsteyg lfqisnrnwc kssefpesen icdiscdkfl ddeladdivc akkivaikgi
+      121 dywkahkpmc sekleqwrce kpgapalvvp alnsetpvp
+//
+
+
+
+LOCUS       LCA_TRIVU     140 aa                    MAM       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   Q29145
+PID         g3913973
+VERSION     Q29145  GI:3913973
+DBSOURCE    swissprot: locus LCA_TRIVU, accession Q29145;
+            class: standard.
+            created: Dec 15, 1998.
+            sequence updated: Dec 15, 1998.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 1237429, gi: 1237430
+            xrefs (non-sequence databases): PFAM PF00062, PROSITE PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal.
+SOURCE      common brush-tailed possum.
+  ORGANISM  Trichosurus vulpecula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Metatheria; Diprotodontia; Phalangeridae; Trichosurus.
+REFERENCE   1  (residues 1 to 140)
+  AUTHORS   Piotte,C.P., Marshall,C.J., Hubbard,M.J., Collet,C. and Grigor,M.R.
+  TITLE     Lysozyme and alpha-lactalbumin from the milk of a marsupial, the
+            common brush-tailed possum (Trichosurus vulpecula)
+  JOURNAL   Biochim. Biophys. Acta 1336 (2), 235-242 (1997)
+  MEDLINE   97449326
+  REMARK    SEQUENCE FROM N.A., AND PARTIAL SEQUENCE.
+            TISSUE=MAMMARY GLAND
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            MASS SPECTROMETRY: MW=13985; METHOD=MALDI; RANGE=20-140.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Trichosurus vulpecula"
+                     /db_xref="taxon:9337"
+                     1..140
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..140
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          20..140
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,140)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(47,131)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Site            63
+                     /site_type="glycosylation"
+                     /note="POTENTIAL."
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          97..108
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+ORIGIN      
+        1 mmsllpllli givlpatqak dygkcelnqi lrergvdkvi slpelictmf hssgfstete
+       61 vdnnnhkeyg ifqissngwc aekqedvers vcgilcskll ddditddivc akkilqlper
+      121 ldhwkahntf crenldqwnc 
+//
+
+
+
+LOCUS       LEC_ERYCO     281 aa                    PLN       15-JUL-1998
+DEFINITION  LECTIN PRECURSOR.
+ACCESSION   P16404
+PID         g3183533
+VERSION     P16404  GI:3183533
+DBSOURCE    swissprot: locus LEC_ERYCO, accession P16404;
+            class: standard.
+            created: Aug 1, 1990.
+            sequence updated: Jul 15, 1998.
+            annotation updated: Jul 15, 1998.
+            xrefs: gi: 288302, gi: 288303, gi: 81752, gi: 99883, gi: 494279,
+            gi: 3212463, gi: 3212464, gi: 3212465, gi: 3212466, gi: 3212467
+            xrefs (non-sequence databases): PFAM PF00138, PFAM PF00139, PROSITE
+            PS00307, PROSITE PS00308
+KEYWORDS    Lectin; Glycoprotein; Signal; 3D-structure.
+SOURCE      coral tree.
+  ORGANISM  Erythrina corallodendron
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            euphyllophytes; Spermatophyta; Magnoliophyta; eudicotyledons; core
+            eudicots; Rosidae; eurosids I; Fabales; Fabaceae; Papilionoideae;
+            Erythrina.
+REFERENCE   1  (residues 1 to 281)
+  AUTHORS   Arango,R., Rozenblatt,S. and Sharon,N.
+  TITLE     Cloning and sequence analysis of the Erythrina corallodendron
+            lectin cDNA
+  JOURNAL   FEBS Lett. 264 (1), 109-111 (1990)
+  MEDLINE   90249490
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 281)
+  AUTHORS   Adar,R., Richardson,M., Lis,H. and Sharon,N.
+  TITLE     The amino acid sequence of Erythrina corallodendron lectin and its
+            homology with other legume lectins
+  JOURNAL   FEBS Lett. 257 (1), 81-85 (1989)
+  MEDLINE   90033358
+  REMARK    SEQUENCE OF 27-270.
+            Erratum:[[published erratum appears in FEBS Lett 1990 Feb
+            12;261(1):217]]
+REFERENCE   3  (residues 1 to 281)
+  AUTHORS   Shaanan,B., Lis,H. and Sharon,N.
+  TITLE     Structure of a legume lectin with an ordered N-linked carbohydrate
+            in complex with lactose
+  JOURNAL   Science 254 (5033), 862-866 (1991)
+  MEDLINE   92054582
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS).
+REFERENCE   4  (residues 1 to 281)
+  AUTHORS   Elgavish,S. and Shaanan,B.
+  TITLE     Structures of the Erythrina corallodendron lectin and of its
+            complexes with mono- and disaccharides
+  JOURNAL   J. Mol. Biol. 277 (4), 917-932 (1998)
+  MEDLINE   98213673
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 27-265.
+COMMENT     On Jun 4, 1998 this sequence version replaced gi:126143.
+            -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] GALACTOSE AND N-ACETYLLACTOSAMINE SPECIFIC LECTIN.
+            [SUBUNIT] HOMODIMER.
+            [SIMILARITY] BELONGS TO THE LEGUMINOUS LECTIN FAMILY.
+FEATURES             Location/Qualifiers
+     source          1..281
+                     /organism="Erythrina corallodendron"
+                     /db_xref="taxon:3843"
+     Protein         1..281
+                     /product="LECTIN PRECURSOR"
+     Region          1..26
+                     /region_name="Signal"
+     Region          27..281
+                     /region_name="Mature chain"
+                     /note="LECTIN."
+     Region          28..34
+                     /region_name="Beta-strand region"
+     Region          39..40
+                     /region_name="Hydrogen bonded turn"
+     Region          42..43
+                     /region_name="Hydrogen bonded turn"
+     Site            43
+                     /site_type="glycosylation"
+     Region          44..48
+                     /region_name="Beta-strand region"
+     Region          48
+                     /region_name="Variant"
+                     /note="G -> A."
+     Region          49..54
+                     /region_name="Conflict"
+                     /note="AALITQ -> DSIPET (IN REF. 2)."
+     Region          49
+                     /region_name="Hydrogen bonded turn"
+     Region          51..52
+                     /region_name="Beta-strand region"
+     Region          54..55
+                     /region_name="Hydrogen bonded turn"
+     Region          58..59
+                     /region_name="Beta-strand region"
+     Region          63
+                     /region_name="Beta-strand region"
+     Region          65..66
+                     /region_name="Hydrogen bonded turn"
+     Region          69
+                     /region_name="Beta-strand region"
+     Region          74..79
+                     /region_name="Beta-strand region"
+     Region          83..84
+                     /region_name="Beta-strand region"
+     Region          86
+                     /region_name="Beta-strand region"
+     Region          88..90
+                     /region_name="Hydrogen bonded turn"
+     Region          93
+                     /region_name="Beta-strand region"
+     Region          95..103
+                     /region_name="Beta-strand region"
+     Region          115..122
+                     /region_name="Beta-strand region"
+     Region          124..125
+                     /region_name="Hydrogen bonded turn"
+     Region          130
+                     /region_name="Beta-strand region"
+     Region          132..134
+                     /region_name="Helical region"
+     Region          135..137
+                     /region_name="Hydrogen bonded turn"
+     Region          138
+                     /region_name="Beta-strand region"
+     Region          139
+                     /region_name="Conflict"
+                     /note="N -> F (IN REF. 2)."
+     Region          145..147
+                     /region_name="Helical region"
+     Region          150..155
+                     /region_name="Beta-strand region"
+     Region          160..161
+                     /region_name="Hydrogen bonded turn"
+     Region          160
+                     /region_name="Conflict"
+                     /note="P -> Q (IN REF. 1)."
+     Region          168..173
+                     /region_name="Beta-strand region"
+     Region          180..183
+                     /region_name="Beta-strand region"
+     Region          188..189
+                     /region_name="Hydrogen bonded turn"
+     Region          192..199
+                     /region_name="Beta-strand region"
+     Region          200..203
+                     /region_name="Hydrogen bonded turn"
+     Region          204..211
+                     /region_name="Beta-strand region"
+     Region          212..215
+                     /region_name="Hydrogen bonded turn"
+     Region          216..223
+                     /region_name="Beta-strand region"
+     Region          225
+                     /region_name="Variant"
+                     /note="D -> V."
+     Region          226..229
+                     /region_name="Helical region"
+     Region          233..242
+                     /region_name="Beta-strand region"
+     Region          246..247
+                     /region_name="Hydrogen bonded turn"
+     Region          253..263
+                     /region_name="Beta-strand region"
+ORIGIN      
+        1 matyklcsvl alsltlflli lnkvnsveti sfsfsefepg ndnltlqgaa litqsgvlql
+       61 tkinqngmpa wdstgrtlya kpvhiwdmtt gtvasfetrf sfsieqpytr plpadglvff
+      121 mgptkskpaq gygylgifnn skqdnsyqtl gvefdtfsnp wdppqvphig idvnsirsik
+      181 tqpfqldngq vanvvikyda sskilhavlv ypssgaiyti aeivdvkqvl pewvdvglsg
+      241 atgaqrdaae thdvyswsfq aslpetndav iptsnhntfa i
+//
+
+
+
+LOCUS       HPA3_HELPY    260 aa                    BCT       15-JUL-1998
+DEFINITION  NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ PRECURSOR
+            (N-ACETYLNEURAMINYLLACTOSE-BINDING FIBRILLAR HEMAGGLUTININ
+            RECEPTOR-BINDING SUBUNIT) (NLBH) (FLAGELLAR SHEATH ADHESIN).
+ACCESSION   Q48261
+PID         g2497720
+VERSION     Q48261  GI:2497720
+DBSOURCE    swissprot: locus HPA3_HELPY, accession Q48261;
+            class: standard.
+            created: Nov 1, 1997.
+            sequence updated: Nov 1, 1997.
+            annotation updated: Jul 15, 1998.
+            xrefs: gi: 1054730, gi: 1054732
+            xrefs (non-sequence databases): PROSITE PS00013
+KEYWORDS    Flagella; Outer membrane; Lipoprotein; Signal.
+SOURCE      Helicobacter pylori.
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1  (residues 1 to 260)
+  AUTHORS   Jones,A.C., Logan,R.P., Foynes,S., Cockayne,A., Wren,B.W. and
+            Penn,C.W.
+  TITLE     A flagellar sheath protein of Helicobacter pylori is identical to
+            HpaA, a putative N-acetylneuraminyllactose-binding hemagglutinin,
+            but is not an adhesin for AGS cells
+  JOURNAL   J. Bacteriol. 179 (17), 5643-5647 (1997)
+  MEDLINE   97431527
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=NCTC 11637
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [SUBCELLULAR LOCATION] ATTACHED TO THE OUTER MEMBRANE BY A LIPID
+            ANCHOR (PROBABLE).
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Helicobacter pylori"
+                     /db_xref="taxon:210"
+                     1..260
+     Protein         1..260
+                     /product="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ
+                     PRECURSOR"
+     Region          1..27
+                     /region_name="Signal"
+                     /note="BY SIMILARITY."
+     Site            28
+                     /site_type="lipid-binding"
+                     /note="N-ACYL DIGLYCERIDE (PROBABLE)."
+     Region          28..260
+                     /region_name="Mature chain"
+                     /note="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ."
+     Region          134..139
+                     /region_name="Domain"
+                     /note="N-ACETYL-NEURAMINYL-ALPHA(2,3)-LACTOSE BINDING
+                     MOTIF (POTENTIAL)."
+ORIGIN      
+        1 mrannhfkdf awkkcllgas vvallvgcsp hiietneval klnyhpasek vqaldekill
+       61 lrpafqysdn iakeyenkfk nqtalkveqi lqnqgykvis vdssdkddfs faqkkegyla
+      121 vamngeivlr pdpkrtiqkk sepgllfstg ldkmegvlip agfikvtile pmsgesldsf
+      181 tmdlseldiq ekflktthss hsgglvstmv kgtdnsndai ksalnkifan imqeidkklt
+      241 qknlesyqkd akelkgkrnr 
+//
+
+
+
+LOCUS       HPA2_HELPY    260 aa                    BCT       15-JUL-1998
+DEFINITION  NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ PRECURSOR
+            (N-ACETYLNEURAMINYLLACTOSE-BINDING FIBRILLAR HEMAGGLUTININ
+            RECEPTOR-BINDING SUBUNIT) (NLBH) (FLAGELLAR SHEATH ADHESIN).
+ACCESSION   Q48254
+PID         g2497719
+VERSION     Q48254  GI:2497719
+DBSOURCE    swissprot: locus HPA2_HELPY, accession Q48254;
+            class: standard.
+            created: Nov 1, 1997.
+            sequence updated: Nov 1, 1997.
+            annotation updated: Jul 15, 1998.
+            xrefs: gi: 1016282, gi: 1016283
+            xrefs (non-sequence databases): PROSITE PS00013
+KEYWORDS    Flagella; Outer membrane; Lipoprotein; Signal.
+SOURCE      Helicobacter pylori.
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1  (residues 1 to 260)
+  AUTHORS   O'Toole,P.W., Janzon,L., Doig,P., Huang,J., Kostrzynska,M. and
+            Trust,T.J.
+  TITLE     The putative neuraminyllactose-binding hemagglutinin HpaA of
+            Helicobacter pylori CCUG 17874 is a lipoprotein
+  JOURNAL   J. Bacteriol. 177 (21), 6049-6057 (1995)
+  MEDLINE   96042077
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=CCUG 17874
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [SUBCELLULAR LOCATION] ATTACHED TO THE OUTER MEMBRANE BY A LIPID
+            ANCHOR (PROBABLE).
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Helicobacter pylori"
+                     /db_xref="taxon:210"
+                     1..260
+     Protein         1..260
+                     /product="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ
+                     PRECURSOR"
+     Region          1..27
+                     /region_name="Signal"
+                     /note="BY SIMILARITY."
+     Site            28
+                     /site_type="lipid-binding"
+                     /note="N-ACYL DIGLYCERIDE (PROBABLE)."
+     Region          28..260
+                     /region_name="Mature chain"
+                     /note="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ."
+     Region          134..139
+                     /region_name="Domain"
+                     /note="N-ACETYL-NEURAMINYL-ALPHA(2,3)-LACTOSE BINDING
+                     MOTIF (POTENTIAL)."
+ORIGIN      
+        1 mktnghfkdf awkkcllgas vgallvgcsp hiietneval klnyhpasek vqaldekill
+       61 lrpafqysdn iakeyenkfk nqtvlkveqi lqnqgykvin vdssdkddfs faqkkegyla
+      121 vamngeivlr pdpkrtiqkk sepgllfstg ldkmegvlip agfvkvtile pmsgesldsf
+      181 tmdlseldiq ekflktthss hsgglvstmv kgtdnsndai ksalnkifgs imqeidkklt
+      241 qknlesyqkd akelkgkrnr 
+//
+
+
+
+LOCUS       HPA1_HELPY    260 aa                    BCT       01-NOV-1997
+DEFINITION  NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ PRECURSOR
+            (N-ACETYLNEURAMINYLLACTOSE-BINDING FIBRILLAR HEMAGGLUTININ
+            RECEPTOR-BINDING SUBUNIT) (NLBH) (FLAGELLAR SHEATH ADHESIN).
+ACCESSION   Q48264
+PID         g2497718
+VERSION     Q48264  GI:2497718
+DBSOURCE    swissprot: locus HPA1_HELPY, accession Q48264;
+            class: standard.
+            created: Nov 1, 1997.
+            sequence updated: Nov 1, 1997.
+            annotation updated: Nov 1, 1997.
+            xrefs: gi: 732735, gi: 732736
+            xrefs (non-sequence databases): PROSITE PS00013
+KEYWORDS    Flagella; Outer membrane; Lipoprotein; Signal.
+SOURCE      Helicobacter pylori.
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1  (residues 1 to 260)
+  AUTHORS   Evans,D.G., Karjalainen,T.K., Evans,D.J. Jr., Graham,D.Y. and
+            Lee,C.H.
+  TITLE     Cloning, nucleotide sequence, and expression of a gene encoding an
+            adhesin subunit protein of Helicobacter pylori
+  JOURNAL   J. Bacteriol. 175 (3), 674-683 (1993)
+  MEDLINE   93139035
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=8826
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [SUBCELLULAR LOCATION] ATTACHED TO THE OUTER MEMBRANE BY A LIPID
+            ANCHOR (PROBABLE).
+            [PTM] THE N-TERMINUS IS BLOCKED.
+FEATURES             Location/Qualifiers
+     source          1..260
+                     /organism="Helicobacter pylori"
+                     /db_xref="taxon:210"
+                     1..260
+     Protein         1..260
+                     /product="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ
+                     PRECURSOR"
+     Region          1..27
+                     /region_name="Signal"
+                     /note="BY SIMILARITY."
+     Site            28
+                     /site_type="lipid-binding"
+                     /note="N-ACYL DIGLYCERIDE (PROBABLE)."
+     Region          28..260
+                     /region_name="Mature chain"
+                     /note="NEURAMINYLLACTOSE-BINDING HEMAGGLUTININ."
+     Region          134..139
+                     /region_name="Domain"
+                     /note="N-ACETYL-NEURAMINYL-ALPHA(2,3)-LACTOSE BINDING
+                     MOTIF (POTENTIAL)."
+ORIGIN      
+        1 mktnghfkdf awkkcllgts vvallvgcsp hiietneval klnyhpasek vqaldekill
+       61 lkpafqysdn iakeyenkfk nqttlkveei lqnqgykvin vdssdkddfs faqkkegyla
+      121 vamigeivlr pdpkrtiqkk sepgllfstg ldkmegvlip agfvkvtile pmsgesldsf
+      181 tmdlseldiq ekflktthss hsgglvstmv kgtdnsndai ksalnkifas imqemdkklt
+      241 qrnlesyqkd akelknkrnr 
+//
+
+
+
+LOCUS       LECG_ARAHY    273 aa                    PLN       15-JUL-1999
+DEFINITION  GALACTOSE-BINDING LECTIN PRECURSOR (AGGLUTININ) (PNA).
+ACCESSION   P02872
+PID         g1708792
+VERSION     P02872  GI:1708792
+DBSOURCE    swissprot: locus LECG_ARAHY, accession P02872;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Oct 1, 1996.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 253288, gi: 253289, gi: 72347, gi: 81740
+            xrefs (non-sequence databases): PFAM PF00138, PFAM PF00139, PROSITE
+            PS00307, PROSITE PS00308
+KEYWORDS    Lectin; Calcium; Manganese; 3D-structure; Signal.
+SOURCE      peanut.
+  ORGANISM  Arachis hypogaea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            euphyllophytes; Spermatophyta; Magnoliophyta; eudicotyledons; core
+            eudicots; Rosidae; eurosids I; Fabales; Fabaceae; Papilionoideae;
+            Arachis.
+REFERENCE   1  (residues 1 to 273)
+  AUTHORS   Rodriguez-Arango,E., Arango,R., Adar,R., Galili,G. and Sharon,N.
+  TITLE     Cloning, sequence analysis and expression in Escherichia coli of
+            the cDNA encoding a precursor of peanut agglutinin
+  JOURNAL   FEBS Lett. 307 (2), 185-189 (1992)
+  MEDLINE   92354708
+  REMARK    SEQUENCE FROM N.A.
+            TISSUE=SEED
+            Erratum:[[published erratum appears in FEBS Lett 1992 Sep
+            28;310(2):204]]
+REFERENCE   2  (residues 1 to 273)
+  AUTHORS   Young,N.M., Johnston,R.A. and Watson,D.C.
+  TITLE     The amino acid sequence of peanut agglutinin
+  JOURNAL   Eur. J. Biochem. 196 (3), 631-637 (1991)
+  MEDLINE   91192034
+  REMARK    SEQUENCE OF 24-273.
+            TISSUE=SEED
+REFERENCE   3  (residues 1 to 273)
+  AUTHORS   LAUWEREYS,M., FORIERS,A., SHARON,N. and STROSBERG,A.D.
+  TITLE     Sequence studies of peanut agglutinin
+  JOURNAL   FEBS Lett. 181, 241-244 (1985)
+  REMARK    PRELIMINARY PARTIAL SEQUENCE.
+            STRAIN=CV. SHULAMIT
+REFERENCE   4  (residues 1 to 273)
+  AUTHORS   Banerjee,R., Das,K., Ravishankar,R., Suguna,K., Surolia,A. and
+            Vijayan,M.
+  TITLE     Conformation, protein-carbohydrate interactions and a novel subunit
+            association in the refined structure of peanut lectin-lactose
+            complex
+  JOURNAL   J. Mol. Biol. 259 (2), 281-296 (1996)
+  MEDLINE   96228253
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS).
+REFERENCE   5  (residues 1 to 273)
+  AUTHORS   RAVISHANKAR,R., SUROLIA,A., LIM,M.V.S. and KISHI,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-NOV-1998) to the PDB data bank
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS).
+COMMENT     On Dec 6, 1996 this sequence version replaced gi:126129.
+            -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] D-GALACTOSE SPECIFIC LECTIN.
+            [SUBUNIT] HOMOTETRAMER.
+            [MISCELLANEOUS] BINDS ONE MANGANESE (OR OTHER TRANSITION METAL) ION
+            AND ONE CALCIUM ION. THE METAL IONS ARE ESSENTIAL FOR THE
+            SACCHARIDE- BINDING AND CELL-AGGLUTINATING ACTIVITIES.
+            [SIMILARITY] BELONGS TO THE LEGUMINOUS LECTIN FAMILY.
+FEATURES             Location/Qualifiers
+     source          1..273
+                     /organism="Arachis hypogaea"
+                     /db_xref="taxon:3818"
+     Region          1..23
+                     /region_name="Signal"
+     Protein         1..273
+                     /product="GALACTOSE-BINDING LECTIN PRECURSOR"
+     Region          24..273
+                     /region_name="Mature chain"
+                     /note="GALACTOSE-BINDING LECTIN."
+     Region          115
+                     /region_name="Variant"
+                     /note="E -> V (IN MINOR FORM)."
+     Site            144
+                     /site_type="metal-binding"
+                     /note="MANGANESE."
+     Site            146
+                     /site_type="metal-binding"
+                     /note="MANGANESE AND CALCIUM."
+     Site            148
+                     /site_type="metal-binding"
+                     /note="CALCIUM."
+     Site            150
+                     /site_type="metal-binding"
+                     /note="CALCIUM."
+     Site            155
+                     /site_type="metal-binding"
+                     /note="MANGANESE AND CALCIUM."
+     Site            160
+                     /site_type="metal-binding"
+                     /note="MANGANESE."
+     Region          172
+                     /region_name="Variant"
+                     /note="K -> A (IN MINOR FORM)."
+     Region          185
+                     /region_name="Variant"
+                     /note="K -> I (IN MINOR FORM)."
+     Region          235..236
+                     /region_name="Variant"
+                     /note="LG -> RA (IN MINOR FORM)."
+ORIGIN      
+        1 mkpfcvfltf flllaasskk vdsaetvsfn fnsfsegnpa infqgdvtvl sngniqltnl
+       61 nkvnsvgrvl yampvriwss atgnvasflt sfsfemkdik dydpadgiif fiapedtqip
+      121 agsigggtlg vsdtkgaghf vgvefdtysn seyndpptdh vgidvnsvds vktvpwnsvs
+      181 gavvkvtviy dsstktlsva vtndngditt iaqvvdlkak lpervkfgfs asgslggrqi
+      241 hlirswsfts tlitttrrsi dnnekkimnm asa
+//
+
+
+
+LOCUS       LCA_MOUSE     143 aa                    ROD       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P29752
+PID         g266447
+VERSION     P29752  GI:266447
+DBSOURCE    swissprot: locus LCA_MOUSE, accession P29752;
+            class: standard.
+            created: Apr 1, 1993.
+            sequence updated: Apr 1, 1993.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 191859, gi: 191860, gi: 191870, gi: 191871, gi: 280944
+            xrefs (non-sequence databases): HSSP P00709, MGD MGI:96742, PFAM
+            PF00062, PROSITE PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal.
+SOURCE      house mouse.
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Rodentia; Sciurognathi; Muridae; Murinae; Mus.
+REFERENCE   1  (residues 1 to 143)
+  AUTHORS   Vilotte,J.L., Soulier,S. and Mercier,J.C.
+  TITLE     Sequence of the murine alpha-lactalbumin-encoding cDNA:
+            interspecies comparison of the coding frame and deduced pre-protein
+  JOURNAL   Gene 112 (2), 251-255 (1992)
+  MEDLINE   92210008
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=BALB/C
+REFERENCE   2  (residues 1 to 143)
+  AUTHORS   Vilotte,J.L. and Soulier,S.
+  TITLE     Isolation and characterization of the mouse
+            alpha-lactalbumin-encoding gene: interspecies comparison, tissue-
+            and stage-specific expression
+  JOURNAL   Gene 119 (2), 287-292 (1992)
+  MEDLINE   93013000
+  REMARK    SEQUENCE FROM N.A.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+                     1..143
+     Region          1..20
+                     /region_name="Signal"
+     Protein         1..143
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          21..143
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(26,140)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(48,131)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Site            65
+                     /site_type="glycosylation"
+                     /note="POTENTIAL."
+     Bond            bond(81,97)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(93,111)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          98..109
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+ORIGIN      
+        1 mmhfvplflv cilslpafqa teltkckvsh aikdidgyqg isllewacvl fhtsgydtqa
+       61 vvndngstey glfqisdrfw ckssefpese nicgiscdkl lddeldddia cakkilaikg
+      121 idywkaykpm csekleqwrc ekp
+//
+
+
+
+LOCUS       LACE_AGRRD    422 aa                    BCT       01-JUL-1993
+DEFINITION  LACTOSE-BINDING PROTEIN PRECURSOR (LBP).
+ACCESSION   P29822
+PID         g266440
+VERSION     P29822  GI:266440
+DBSOURCE    swissprot: locus LACE_AGRRD, accession P29822;
+            class: standard.
+            created: Apr 1, 1993.
+            sequence updated: Apr 1, 1993.
+            annotation updated: Jul 1, 1993.
+            xrefs: gi: 38967, gi: 38968, gi: 72546, gi: 281636
+KEYWORDS    Transport; Sugar transport; Periplasmic; Signal.
+SOURCE      Agrobacterium radiobacter.
+  ORGANISM  Agrobacterium radiobacter
+            Bacteria; Proteobacteria; alpha subdivision; Rhizobiaceae group;
+            Rhizobiaceae; Agrobacterium.
+REFERENCE   1  (residues 1 to 422)
+  AUTHORS   Williams,S.G., Greenwood,J.A. and Jones,C.W.
+  TITLE     Molecular analysis of the lac operon encoding the
+            binding-protein-dependent lactose transport system and
+            beta-galactosidase in Agrobacterium radiobacter
+  JOURNAL   Mol. Microbiol. 6 (13), 1755-1768 (1992)
+  MEDLINE   92334152
+  REMARK    SEQUENCE FROM N.A.
+            STRAIN=AR50
+REFERENCE   2  (residues 1 to 422)
+  AUTHORS   Greenwood,J.A., Cornish,A. and Jones,C.W.
+  TITLE     Binding-protein-dependent lactose transport in Agrobacterium
+            radiobacter
+  JOURNAL   J. Bacteriol. 172 (4), 1703-1710 (1990)
+  MEDLINE   90202682
+  REMARK    SEQUENCE OF 29-47, AND CHARACTERIZATION.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] PART OF THE BINDING-PROTEIN-DEPENDENT TRANSPORT SYSTEM
+            FOR LACTOSE.
+            [SUBCELLULAR LOCATION] PERIPLASMIC.
+            [INDUCTION] BY LACTOSE AND VARIOUS GALACTOSIDES, AND SUBJECT TO
+            CATABOLITE REPRESSION BY GLUCOSE, GALACTOSE AND SUCCINATE. IN
+            STRAIN AR50 THE EXPRESSION OF THE LAC OPERON IS CONSTITUTIVE.
+            [SIMILARITY] TO E.COLI GLYCEROL-3-PHOSPHATE-BINDING PROTEIN (UGPB).
+FEATURES             Location/Qualifiers
+     source          1..422
+                     /organism="Agrobacterium radiobacter"
+                     /db_xref="taxon:358"
+                     1..422
+     Region          1..28
+                     /region_name="Signal"
+     Protein         1..422
+                     /product="LACTOSE-BINDING PROTEIN PRECURSOR"
+     Region          29..422
+                     /region_name="Mature chain"
+                     /note="LACTOSE-BINDING PROTEIN."
+     Region          246..277
+                     /region_name="Domain"
+                     /note="LACTOSE-BINDING (BY SIMILARITY)."
+ORIGIN      
+        1 mdysrllkrs vsaaltaaal lcstaafage vtiwcwdpnf nvaimkeaae rytakhpdtt
+       61 fnivdfakad veqklqtgla sgmtdtlpdi vliedygaqk ylqsfpgsfa altdkidfsg
+      121 fakykvdlmt legqvygvpf dsgvtglyyr tdyleqagfk pedmqnltwd rfieigkevk
+      181 aktghemmal dandggliri mmqsggqwyf nedgslnitg naalkaalet qarivnerva
+      241 kptsgsndgi raltsgdvas vlrgvwitgt vksqpdqagk waltaipkln iegataasnl
+      301 ggsswyvlea saekdeaidf lneiyakdld fyqkilterg avgsllaart geayqkpddf
+      361 fggqtvwqnf adwlvqvpav nygiftneld tavtanfpal vkgtpvdevl kaiedqaagq
+      421 iq
+//
+
+
+
+LOCUS       GALM_ACICA    381 aa                    BCT       15-JUL-1999
+DEFINITION  ALDOSE 1-EPIMERASE PRECURSOR (MUTAROTASE).
+ACCESSION   P05149
+PID         g127542
+VERSION     P05149  GI:127542
+DBSOURCE    swissprot: locus GALM_ACICA, accession P05149;
+            class: standard.
+            created: Aug 13, 1987.
+            sequence updated: Aug 13, 1987.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 38721, gi: 38722, gi: 78090, gi: 78091
+            xrefs (non-sequence databases): PFAM PF01263, PROSITE PS00545
+KEYWORDS    Isomerase; Galactose metabolism; Periplasmic; Signal.
+SOURCE      Acinetobacter calcoaceticus.
+  ORGANISM  Acinetobacter calcoaceticus
+            Bacteria; Proteobacteria; gamma subdivision; Pseudomonas group;
+            Moraxellaceae; Acinetobacter.
+REFERENCE   1  (residues 1 to 381)
+  AUTHORS   Gatz,C. and Hillen,W.
+  TITLE     Acinetobacter calcoaceticus encoded mutarotase: nucleotide sequence
+            analysis of the gene and characterization of its secretion in
+            Escherichia coli
+  JOURNAL   Nucleic Acids Res. 14 (10), 4309-4323 (1986)
+  MEDLINE   86232560
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 381)
+  AUTHORS   Gatz,C., Altschmied,J. and Hillen,W.
+  TITLE     Cloning and expression of the Acinetobacter calcoaceticus
+            mutarotase gene in Escherichia coli
+  JOURNAL   J. Bacteriol. 168 (1), 31-39 (1986)
+  MEDLINE   87008396
+  REMARK    SEQUENCE OF 21-47.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [CATALYTIC ACTIVITY] ALPHA-D-GLUCOSE = BETA-D-GLUCOSE (ALSO ACTS ON
+            L-ARABINOSE, D-XYLOSE, D-GALACTOSE, MALTOSE AND LACTOSE).
+            [PATHWAY] GALACTOSE METABOLISM.
+            [SUBCELLULAR LOCATION] PERIPLASMIC.
+            [SIMILARITY] TO OTHER MUTAROTASES PROTEINS AND DOMAINS.
+FEATURES             Location/Qualifiers
+     source          1..381
+                     /organism="Acinetobacter calcoaceticus"
+                     /db_xref="taxon:471"
+                     1..381
+     Region          1..20
+                     /region_name="Signal"
+     Protein         1..381
+                     /product="ALDOSE 1-EPIMERASE PRECURSOR"
+                     /EC_number="5.1.3.3"
+     Region          21..381
+                     /region_name="Mature chain"
+                     /note="ALDOSE 1-EPIMERASE."
+     Site            205
+                     /site_type="active"
+                     /note="POTENTIAL."
+ORIGIN      
+        1 mkklailgvt vysfaqlana atlnvksygt tqngqkvdly tmsnnngvsv sfisfggvit
+       61 qiltpdaqgk qnnivlgfdd lkgyevtdtk egihfgglig ryanrignak fsldgktynl
+      121 eknngpnslh sgnpgfdkrv wqvkplvskg etvkaslklt spngdqgfpg kldveviysl
+      181 sdqnefkiey kaktdqptvv nltnhsyfnl sgagnnpygv ldhvvqlnag rilvtdqnsl
+      241 ptgeiasvag tpfdfrmpka ivkdirannq qlaygygydq twvinqksqg klnlaaivvd
+      301 pkskrtmqvl ttepsvqmyt adhllgnivg angvlyrqad alaletqhfp dspnqptfps
+      361 trlnpnqtyn svtvfkfgvq k
+//
+
+
+
+LOCUS       LCA_SHEEP     142 aa                    MAM       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P09462
+PID         g126008
+VERSION     P09462  GI:126008
+DBSOURCE    swissprot: locus LCA_SHEEP, accession P09462;
+            class: standard.
+            created: Mar 1, 1989.
+            sequence updated: Mar 1, 1989.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 1309, gi: 1310, gi: 89842, gi: 89841
+            xrefs (non-sequence databases): HSSP P00712, PFAM PF00062, PROSITE
+            PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal.
+SOURCE      sheep.
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovoidea; Bovidae;
+            Caprinae; Ovis.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Gaye,P., Hue-Delahaie,D., Mercier,J.C., Soulier,S., Vilotte,J.L.
+            and Furet,J.P.
+  TITLE     Complete nucleotide sequence of ovine alpha-lactalbumin mRNA
+  JOURNAL   Biochimie 69 (6-7), 601-608 (1987)
+  MEDLINE   88078101
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Mercier,J.C., Haze,G., Gaye,P., Petrissant,G., Hue,D. and
+            Boisnard,M.
+  TITLE     Amino terminal sequence of the precursor of ovine alpha-lactalbumin
+  JOURNAL   Biochem. Biophys. Res. Commun. 85 (2), 662-670 (1978)
+  MEDLINE   79103273
+  REMARK    PARTIAL SEQUENCE OF 1-35.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Ovis aries"
+                     /db_xref="taxon:9940"
+                     1..142
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..142
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          20..142
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          97..108
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkceafqk lkdlkdyggv slpewvctaf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphsrn icniscdkfl dddltddivc akkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+LOCUS       LCA_PIG       141 aa                    MAM       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P18137
+PID         g126005
+VERSION     P18137  GI:126005
+DBSOURCE    swissprot: locus LCA_PIG, accession P18137;
+            class: standard.
+            created: Nov 1, 1990.
+            sequence updated: May 1, 1992.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 164526, gi: 164527, gi: 2144477, gi: 89151
+            xrefs (non-sequence databases): HSSP P00709, PFAM PF00062, PROSITE
+            PS00128
+KEYWORDS    Milk; Lactose; Calcium-binding; Signal.
+SOURCE      pig.
+  ORGANISM  Sus scrofa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Cetartiodactyla; Suina; Suidae; Sus.
+REFERENCE   1  (residues 1 to 141)
+  AUTHORS   Das Gupta,N.A., Alexander,L.J. and Beattie,C.W.
+  TITLE     The sequence of a porcine cDNA encoding alpha-lactalbumin
+  JOURNAL   Gene 110 (2), 265-266 (1992)
+  MEDLINE   92165071
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 141)
+  AUTHORS   Godovac-Zimmermann,J., Conti,A. and Napolitano,L.
+  TITLE     The complete primary structure of alpha-lactalbumin isolated from
+            pig (Sus scrofa) milk
+  JOURNAL   Biol. Chem. Hoppe-Seyler 371 (7), 649-653 (1990)
+  MEDLINE   91025636
+  REMARK    SEQUENCE OF 20-141.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [MISCELLANEOUS] THE PIG ALPHA-LACTALBUMIN SHOWS COMPLETE LOSS OF
+            BOTH LYSOZYME FUNCTIONAL RESIDUES.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Sus scrofa"
+                     /db_xref="taxon:9823"
+                     1..141
+     Protein         1..141
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          1..19
+                     /region_name="Signal"
+     Region          20..141
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,138)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(47,129)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          62..63
+                     /region_name="Conflict"
+                     /note="HD -> SN (IN REF. 2)."
+     Bond            bond(80,95)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Bond            bond(91,109)
+                     /bond_type="disulfide"
+                     /note="BY SIMILARITY."
+     Region          96..107
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+     Region          107
+                     /region_name="Conflict"
+                     /note="M -> D (IN REF. 2)."
+     Region          141
+                     /region_name="Conflict"
+                     /note="M -> L (IN REF. 2)."
+ORIGIN      
+        1 mmsfvsllvv gilfpaiqak qftkcelsqv lkdmdgygdi tlpewictif hisgydtkti
+       61 vhdngsteyg lfqinnklwc rdnqiqskni cgiscdkfld ddltddmmca kkildnegid
+      121 ywlahkalcs ekldqwlcek m
+//
+
+
+
+LOCUS       LCA_CAVPO     142 aa                    ROD       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P00713
+PID         g125999
+VERSION     P00713  GI:125999
+DBSOURCE    swissprot: locus LCA_CAVPO, accession P00713;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Mar 1, 1989.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 191281, gi: 305338, gi: 49426, gi: 49427, gi: 67422, gi:
+            92976, gi: 2392355
+            xrefs (non-sequence databases): PFAM PF00062, PROSITE PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal; 3D-structure.
+SOURCE      domestic guinea pig.
+  ORGANISM  Cavia porcellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Rodentia; Hystricognathi; Caviidae; Cavia.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Laird,J.E., Jack,L., Hall,L., Boulton,A.P., Parker,D. and
+            Craig,R.K.
+  TITLE     Structure and expression of the guinea-pig alpha-lactalbumin gene
+  JOURNAL   Biochem. J. 254 (1), 85-94 (1988)
+  MEDLINE   89025693
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Hall,L., Craig,R.K., Edbrooke,M.R. and Campbell,P.N.
+  TITLE     Comparison of the nucleotide sequence of cloned human and
+            guinea-pig pre-alpha-lactalbumin cDNA with that of chick
+            pre-lysozyme cDNA suggests evolution from a common ancestral gene
+  JOURNAL   Nucleic Acids Res. 10 (11), 3503-3515 (1982)
+  MEDLINE   82247223
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Brew,K.
+  TITLE     The complete amino-acid sequence of guinea-pig -lactalbumin
+  JOURNAL   Eur. J. Biochem. 27 (2), 341-353 (1972)
+  MEDLINE   72255347
+  REMARK    SEQUENCE OF 20-142.
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Pike,A.C., Brew,K. and Acharya,K.R.
+  TITLE     Crystal structures of guinea-pig, goat and bovine alpha-lactalbumin
+            highlight the enhanced conformational flexibility of regions that
+            are significant for its action in lactose synthase
+  JOURNAL   Structure 4 (6), 691-703 (1996)
+  MEDLINE   96399715
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS).
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Cavia porcellus"
+                     /db_xref="taxon:10141"
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..142
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+                     1..142
+     Region          20..142
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Region          81
+                     /region_name="Conflict"
+                     /note="E -> D (IN REF. 2)."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+     Region          97..108
+                     /region_name="Calcium binding region"
+     Region          124
+                     /region_name="Conflict"
+                     /note="L -> F (IN REF. 2)."
+ORIGIN      
+        1 mmsffplllv gilfpavqak qltkcalshe lndlagyrdi tlpewlciif hisgydtqai
+       61 vknsdhkeyg lfqindkdfc essttvqsrn icdiscdkll dddltddimc vkkildikgi
+      121 dywlahkplc sdkleqwyce aq
+//
+
+
+
+LOCUS       LCA_CAPHI     142 aa                    MAM       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P00712
+PID         g125998
+VERSION     P00712  GI:125998
+DBSOURCE    swissprot: locus LCA_CAPHI, accession P00712;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Nov 1, 1988.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 979, gi: 980, gi: 164106, gi: 67421, gi: 89831, gi:
+            89832
+            xrefs (non-sequence databases): PFAM PF00062, PROSITE PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal; 3D-structure.
+SOURCE      goat.
+  ORGANISM  Capra hircus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovoidea; Bovidae;
+            Caprinae; Capra.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Kumagai,I., Tamaki,E., Kakinuma,S. and Miura,K.
+  TITLE     Molecular cloning and sequencing of cDNA encoding goat pre
+            alpha-lactalbumin
+  JOURNAL   J. Biochem. 101 (2), 511-517 (1987)
+  MEDLINE   87222269
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Vilotte,J.L., Soulier,S., Printz,C. and Mercier,J.C.
+  TITLE     Sequence of the goat alpha-lactalbumin-encoding gene: comparison
+            with the bovine gene and evidence of related sequences in the goat
+            genome
+  JOURNAL   Gene 98 (2), 271-276 (1991)
+  MEDLINE   91200677
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   MacGillivray,R.T., Brew,K. and Barnes,K.
+  TITLE     The amino acid sequence of goat alpha-lactalbumin
+  JOURNAL   Arch. Biochem. Biophys. 197 (2), 404-414 (1979)
+  MEDLINE   80063770
+  REMARK    SEQUENCE OF 20-142.
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Shewale,J.G., Sinha,S.K. and Brew,K.
+  TITLE     Evolution of alpha-lactalbumins. The complete amino acid sequence
+            of the alpha-lactalbumin from a marsupial (Macropus rufogriseus)
+            and corrections to regions of sequence in bovine and goat
+            alpha-lactalbumins
+  JOURNAL   J. Biol. Chem. 259 (8), 4947-4956 (1984)
+  MEDLINE   84185596
+  REMARK    REVISIONS.
+REFERENCE   5  (residues 1 to 142)
+  AUTHORS   Pike,A.C., Brew,K. and Acharya,K.R.
+  TITLE     Crystal structures of guinea-pig, goat and bovine alpha-lactalbumin
+            highlight the enhanced conformational flexibility of regions that
+            are significant for its action in lactose synthase
+  JOURNAL   Structure 4 (6), 691-703 (1996)
+  MEDLINE   96399715
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Capra hircus"
+                     /db_xref="taxon:9925"
+                     1..142
+     Region          1..19
+                     /region_name="Signal"
+     Protein         1..142
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          20..142
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+     Region          97..108
+                     /region_name="Calcium binding region"
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkcevfqk lkdlkdyggv slpewvctaf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphsrn icniscdkfl dddltddivc akkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+LOCUS       LCA_BOVIN     142 aa                    MAM       15-JUL-1999
+DEFINITION  ALPHA-LACTALBUMIN PRECURSOR (LACTOSE SYNTHASE B PROTEIN).
+ACCESSION   P00711
+PID         g125996
+VERSION     P00711  GI:125996
+DBSOURCE    swissprot: locus LCA_BOVIN, accession P00711;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Jul 1, 1989.
+            annotation updated: Jul 15, 1999.
+            xrefs: gi: 497, gi: 295774, gi: 163282, gi: 163283, gi: 162643, gi:
+            162644, gi: 289418, gi: 289419, gi: 1070492, gi: 418636, gi: 89387,
+            gi: 89388, gi: 89386
+            xrefs (non-sequence databases): PFAM PF00062, PROSITE PS00128
+KEYWORDS    Milk; Lactose; Glycoprotein; Calcium-binding; Signal; 3D-structure.
+SOURCE      Bos taurus.
+  ORGANISM  Bos taurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Mammalia;
+            Eutheria; Cetartiodactyla; Ruminantia; Pecora; Bovoidea; Bovidae;
+            Bovinae; Bos.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Hurley,W.L. and Schuler,L.A.
+  TITLE     Molecular cloning and nucleotide sequence of a bovine
+            alpha-lactalbumin cDNA
+  JOURNAL   Gene 61 (1), 119-122 (1987)
+  MEDLINE   88167838
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Wang,M., Scott,W.A., Rao,K.R., Udey,J., Conner,G.E. and Brew,K.
+  TITLE     Recombinant bovine alpha-lactalbumin obtained by limited
+            proteolysis of a fusion protein expressed at high levels in
+            Escherichia coli
+  JOURNAL   J. Biol. Chem. 264 (35), 21116-21121 (1989)
+  MEDLINE   90078209
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Vilotte,J.L., Soulier,S., Mercier,J.C., Gaye,P., Hue-Delahaie,D.
+            and Furet,J.P.
+  TITLE     Complete nucleotide sequence of bovine alpha-lactalbumin gene:
+            comparison with its rat counterpart
+  JOURNAL   Biochimie 69 (6-7), 609-620 (1987)
+  MEDLINE   88078102
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Brew,K., Castellino,F.J., Vanaman,T.C. and Hill,R.L.
+  TITLE     The complete amino acid sequence of bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 245 (17), 4570-4582 (1970)
+  MEDLINE   71103833
+  REMARK    SEQUENCE OF 20-142.
+REFERENCE   5  (residues 1 to 142)
+  AUTHORS   Shewale,J.G., Sinha,S.K. and Brew,K.
+  TITLE     Evolution of alpha-lactalbumins. The complete amino acid sequence
+            of the alpha-lactalbumin from a marsupial (Macropus rufogriseus)
+            and corrections to regions of sequence in bovine and goat
+            alpha-lactalbumins
+  JOURNAL   J. Biol. Chem. 259 (8), 4947-4956 (1984)
+  MEDLINE   84185596
+  REMARK    REVISIONS.
+REFERENCE   6  (residues 1 to 142)
+  AUTHORS   Bleck,G.T. and Bremel,R.D.
+  TITLE     Sequence and single-base polymorphisms of the bovine
+            alpha-lactalbumin 5'-flanking region
+  JOURNAL   Gene 126 (2), 213-218 (1993)
+  MEDLINE   93246246
+  REMARK    SEQUENCE OF 1-22 FROM N.A.
+REFERENCE   7  (residues 1 to 142)
+  AUTHORS   Vanaman,T.C., Brew,K. and Hill,R.L.
+  TITLE     The disulfide bonds of bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 245 (17), 4583-4590 (1970)
+  MEDLINE   71103834
+  REMARK    DISULFIDE BONDS.
+REFERENCE   8  (residues 1 to 142)
+  AUTHORS   Bell,K., Hopper,K.E., McKenzie,H.A., Murphy,W.H. and Shaw,D.C.
+  TITLE     A comparison of bovine alpha-lactalbumin A and B of Droughtmaster
+  JOURNAL   Biochim. Biophys. Acta 214 (3), 437-444 (1970)
+  MEDLINE   71159904
+  REMARK    VARIANTS ALLELIC, PRELIMINARY SEQUENCE.
+            STRAIN=DROUGHTMASTER CATTLE
+REFERENCE   9  (residues 1 to 142)
+  AUTHORS   GORDON,W.G., ASCHAFFENBURG,R., SEN,A. and GHOSH,S.K.
+  TITLE     Amino acid composition of several alpha-lactalbumins
+  JOURNAL   J. Dairy Sci. 51, 947-947 (1968)
+  REMARK    VARIANT A, PRELIMINARY SEQUENCE OF 20-142.
+            STRAIN=ZEBU CATTLE
+REFERENCE   10 (residues 1 to 142)
+  AUTHORS   Hiraoka,Y., Segawa,T., Kuwajima,K., Sugai,S. and Murai,N.
+  TITLE     alpha-Lactalbumin: a calcium metalloprotein
+  JOURNAL   Biochem. Biophys. Res. Commun. 95 (3), 1098-1104 (1980)
+  MEDLINE   81021144
+  REMARK    CALCIUM-BINDING DATA.
+REFERENCE   11 (residues 1 to 142)
+  AUTHORS   Kronman,M.J., Sinha,S.K. and Brew,K.
+  TITLE     Characteristics of the binding of Ca2+ and other divalent metal
+            ions to bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 256 (16), 8582-8587 (1981)
+  MEDLINE   81264272
+  REMARK    CALCIUM-BINDING DATA.
+REFERENCE   12 (residues 1 to 142)
+  AUTHORS   Pike,A.C., Brew,K. and Acharya,K.R.
+  TITLE     Crystal structures of guinea-pig, goat and bovine alpha-lactalbumin
+            highlight the enhanced conformational flexibility of regions that
+            are significant for its action in lactose synthase
+  JOURNAL   Structure 4 (6), 691-703 (1996)
+  MEDLINE   96399715
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS).
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] ALPHA-LACTALBUMIN IS SYNTHESIZED ONLY IN THE MAMMARY
+            GLAND. AS A REGULATORY SUBUNIT OF LACTOSE SYNTHASE,
+            ALPHA-LACTALBUMIN CHANGES SUBSTRATE SPECIFICITY OF
+            GALACTOSYLTRANSFERASE IN THE MAMMARY GLAND MAKING GLUCOSE A GOOD
+            ACCEPTOR SUBSTRATE FOR THIS ENZYME. IN OTHER TISSUES,
+            GALACTOSYLTRANSFERASE TRANSFERS GALACTOSE ONTO THE
+            N-ACETYLGLUCOSAMINE OF THE OLIGOSACCHARIDE CHAINS IN GLYCOPROTEINS.
+            [SIMILARITY] BELONGS TO FAMILY 22 OF GLYCOSYL HYDROLASES.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Bos taurus"
+                     /db_xref="taxon:9913"
+                     1..142
+     Protein         1..142
+                     /product="ALPHA-LACTALBUMIN PRECURSOR"
+     Region          1..19
+                     /region_name="Signal"
+     Region          20..142
+                     /region_name="Mature chain"
+                     /note="ALPHA-LACTALBUMIN."
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Region          29
+                     /region_name="Variant"
+                     /note="R -> Q (IN AN ALLELE OF DROUGHTMASTER CATTLE; AN
+                     AUSTRALIAN BREED)."
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Region          49
+                     /region_name="Conflict"
+                     /note="T -> A (IN REF. 3)."
+     Region          58
+                     /region_name="Conflict"
+                     /note="Q -> E (IN REF. 4)."
+     Site            64
+                     /site_type="glycosylation"
+                     /note="POTENTIAL."
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Region          82..85
+                     /region_name="Conflict"
+                     /note="DDQN -> NDQD (IN REF. 4)."
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+     Region          97..108
+                     /region_name="Calcium binding region"
+                     /note="BY SIMILARITY."
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkcevfre lkdlkgyggv slpewvcttf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphssn icniscdkfl dddltddimc vkkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+LOCUS       AGI2_WHEAT    213 aa                    PLN       01-MAY-1992
+DEFINITION  AGGLUTININ ISOLECTIN 2 PRECURSOR (WGA2) (ISOLECTIN D).
+ACCESSION   P02876
+PID         g113506
+VERSION     P02876  GI:113506
+DBSOURCE    swissprot: locus AGI2_WHEAT, accession P02876;
+            class: standard.
+            created: Jul 21, 1986.
+            sequence updated: Nov 1, 1990.
+            annotation updated: May 1, 1992.
+            xrefs: gi: 170669, gi: 170670, gi: 319953
+            xrefs (non-sequence databases): PFAM PF00187, PROSITE PS00026
+KEYWORDS    Lectin; Duplication; Chitin-binding; 3D-structure; Signal.
+SOURCE      bread wheat.
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            euphyllophytes; Spermatophyta; Magnoliophyta; Liliopsida; Poales;
+            Poaceae; Triticum.
+REFERENCE   1  (residues 1 to 213)
+  AUTHORS   Smith,J.J. and Raikhel,N.V.
+  TITLE     Nucleotide sequences of cDNA clones encoding wheat germ agglutinin
+            isolectins A and D
+  JOURNAL   Plant Mol. Biol. 13 (5), 601-603 (1989)
+  MEDLINE   91370843
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 213)
+  AUTHORS   Wright,C.S., Gavilanes,F. and Peterson,D.L.
+  TITLE     Primary structure of wheat germ agglutinin isolectin 2. Peptide
+            order deduced from X-ray structure
+  JOURNAL   Biochemistry 23 (2), 280-287 (1984)
+  MEDLINE   84128547
+  REMARK    SEQUENCE OF 28-198.
+            TISSUE=GERM
+REFERENCE   3  (residues 1 to 213)
+  AUTHORS   Wright,C.S. and Raikhel,N.
+  TITLE     Sequence variability in three wheat germ agglutinin isolectins:
+            products of multiple genes in polyploid wheat
+  JOURNAL   J. Mol. Evol. 28 (4), 327-336 (1989)
+  MEDLINE   89279931
+  REMARK    REVISIONS TO 68; 136; 161 AND 177.
+REFERENCE   4  (residues 1 to 213)
+  AUTHORS   Wright,C.S.
+  TITLE     The crystal structure of wheat germ agglutinin at 2-2 A resolution
+  JOURNAL   J. Mol. Biol. 111 (4), 439-457 (1977)
+  MEDLINE   77190124
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+REFERENCE   5  (residues 1 to 213)
+  AUTHORS   Wright,C.S.
+  TITLE     Refinement of the crystal structure of wheat germ agglutinin
+            isolectin 2 at 1.8 A resolution
+  JOURNAL   J. Mol. Biol. 194 (3), 501-529 (1987)
+  MEDLINE   87311724
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS).
+            Erratum:[[published erratum appears in J Mol Biol 1988 Jan
+            5;199(1):239]]
+REFERENCE   6  (residues 1 to 213)
+  AUTHORS   WRIGHT,C.S.
+  JOURNAL   J. Mol. Biol. 199, 239-239 (1988)
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS), ERRATUM.
+REFERENCE   7  (residues 1 to 213)
+  AUTHORS   Wright,C.S.
+  TITLE     2.2 A resolution structure analysis of two refined
+            N-acetylneuraminyl-lactose--wheat germ agglutinin isolectin
+            complexes
+  JOURNAL   J. Mol. Biol. 215 (4), 635-651 (1990)
+  MEDLINE   91039324
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+REFERENCE   8  (residues 1 to 213)
+  AUTHORS   Wright,C.S.
+  TITLE     Comparison of the refined crystal structures of two wheat germ
+            isolectins
+  JOURNAL   J. Mol. Biol. 209 (3), 475-487 (1989)
+  MEDLINE   90064507
+  REMARK    X-RAY CRYSTALLOGRAPHY.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] N-ACETYL-D-GLUCOSAMINE / N-ACETYL-D-NEURAMINIC ACID
+            BINDING LECTIN.
+            [SUBUNIT] HOMODIMER, U-SHAPED.
+            [MISCELLANEOUS] THE 4 SITES PROPOSED FOR BINDING TO CARBOHYDRATES
+            (N-ACETYL-D- GLUCOSAMINE) OF RECEPTOR MOLECULES ARE ON THE SURFACE
+            OF THE AGGLUTININ MOLECULE.
+            [SIMILARITY] THERE ARE THREE VARIANTS OF WGA; VARIABILITY AMONG
+            THEM IS OBSERVED AT A TOTAL OF 10 POSITIONS.
+            [SIMILARITY] CONTAINS FOUR COPIES OF A CHITIN-BINDING DOMAIN.
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /organism="Triticum aestivum"
+                     /db_xref="taxon:4565"
+     Region          1..27
+                     /region_name="Signal"
+     Protein         1..213
+                     /product="AGGLUTININ ISOLECTIN 2 PRECURSOR"
+     Region          28..70
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 1."
+     Region          28..198
+                     /region_name="Mature chain"
+                     /note="AGGLUTININ ISOLECTIN 2."
+     Site            28
+                     /site_type="pyrrolidone-carboxylic-acid"
+     Bond            bond(30,45)
+                     /bond_type="disulfide"
+     Region          31
+                     /region_name="Beta-strand region"
+     Region          32..34
+                     /region_name="Helical region"
+     Region          35..36
+                     /region_name="Hydrogen bonded turn"
+     Region          37
+                     /region_name="Beta-strand region"
+     Bond            bond(39,51)
+                     /bond_type="disulfide"
+     Region          41..42
+                     /region_name="Hydrogen bonded turn"
+     Region          44..45
+                     /region_name="Beta-strand region"
+     Bond            bond(44,58)
+                     /bond_type="disulfide"
+     Region          47..48
+                     /region_name="Hydrogen bonded turn"
+     Region          51..52
+                     /region_name="Beta-strand region"
+     Region          55..58
+                     /region_name="Helical region"
+     Region          60..61
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(62,67)
+                     /bond_type="disulfide"
+     Region          64
+                     /region_name="Conflict"
+                     /note="N -> D (IN REF. 2)."
+     Region          71..113
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 2."
+     Region          72
+                     /region_name="Beta-strand region"
+     Bond            bond(73,88)
+                     /bond_type="disulfide"
+     Region          74
+                     /region_name="Beta-strand region"
+     Region          75..77
+                     /region_name="Helical region"
+     Region          78..79
+                     /region_name="Hydrogen bonded turn"
+     Region          80
+                     /region_name="Beta-strand region"
+     Bond            bond(82,94)
+                     /bond_type="disulfide"
+     Region          83..85
+                     /region_name="Helical region"
+     Bond            bond(87,101)
+                     /bond_type="disulfide"
+     Region          87..88
+                     /region_name="Beta-strand region"
+     Region          90..91
+                     /region_name="Hydrogen bonded turn"
+     Region          93..95
+                     /region_name="Beta-strand region"
+     Region          98..101
+                     /region_name="Helical region"
+     Region          103..104
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(105,110)
+                     /bond_type="disulfide"
+     Region          107
+                     /region_name="Beta-strand region"
+     Region          114..156
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 3."
+     Region          115
+                     /region_name="Beta-strand region"
+     Bond            bond(116,131)
+                     /bond_type="disulfide"
+     Region          117
+                     /region_name="Beta-strand region"
+     Region          118..120
+                     /region_name="Helical region"
+     Region          121..122
+                     /region_name="Hydrogen bonded turn"
+     Region          123
+                     /region_name="Beta-strand region"
+     Bond            bond(125,137)
+                     /bond_type="disulfide"
+     Region          126..128
+                     /region_name="Helical region"
+     Region          130..131
+                     /region_name="Beta-strand region"
+     Bond            bond(130,144)
+                     /bond_type="disulfide"
+     Region          133..134
+                     /region_name="Hydrogen bonded turn"
+     Region          136..138
+                     /region_name="Beta-strand region"
+     Region          141..144
+                     /region_name="Helical region"
+     Region          146..147
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(148,153)
+                     /bond_type="disulfide"
+     Region          157..198
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 4."
+     Bond            bond(159,174)
+                     /bond_type="disulfide"
+     Region          160
+                     /region_name="Beta-strand region"
+     Region          161..163
+                     /region_name="Helical region"
+     Region          164..165
+                     /region_name="Hydrogen bonded turn"
+     Region          166
+                     /region_name="Beta-strand region"
+     Bond            bond(168,180)
+                     /bond_type="disulfide"
+     Region          170..171
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(173,187)
+                     /bond_type="disulfide"
+     Region          173..175
+                     /region_name="Beta-strand region"
+     Region          176..178
+                     /region_name="Hydrogen bonded turn"
+     Region          179..181
+                     /region_name="Beta-strand region"
+     Region          184..187
+                     /region_name="Helical region"
+     Region          189..190
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(191,196)
+                     /bond_type="disulfide"
+     Region          199..213
+                     /region_name="Propeptide"
+ORIGIN      
+        1 mrkmmstmal tlgaavflaf aaataqaqrc geqgsnmecp nnlccsqygy cgmggdycgk
+       61 gcqngacwts krcgsqagga tcpnnhccsq yghcgfgaey cgagcqggpc radikcgsqs
+      121 ggklcpnnlc csqwgfcglg sefcgggcqs gacstdkpcg kdaggrvctn nyccskwgsc
+      181 gigpgycgag cqsggcdavf agaitanstl lae
+//
+
+
+
+LOCUS       AGI1_WHEAT    212 aa                    PLN       01-JUN-1994
+DEFINITION  AGGLUTININ ISOLECTIN 1 PRECURSOR (WGA1) (ISOLECTIN A).
+ACCESSION   P10968
+PID         g113505
+VERSION     P10968  GI:113505
+DBSOURCE    swissprot: locus AGI1_WHEAT, accession P10968;
+            class: standard.
+            created: Jul 1, 1989.
+            sequence updated: Nov 1, 1990.
+            annotation updated: Jun 1, 1994.
+            xrefs: gi: 170665, gi: 170666, gi: 82571, gi: 100766
+            xrefs (non-sequence databases): PFAM PF00187, PROSITE PS00026
+KEYWORDS    Lectin; Duplication; Chitin-binding; 3D-structure; Signal.
+SOURCE      bread wheat.
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            euphyllophytes; Spermatophyta; Magnoliophyta; Liliopsida; Poales;
+            Poaceae; Triticum.
+REFERENCE   1  (residues 1 to 212)
+  AUTHORS   Smith,J.J. and Raikhel,N.V.
+  TITLE     Nucleotide sequences of cDNA clones encoding wheat germ agglutinin
+            isolectins A and D
+  JOURNAL   Plant Mol. Biol. 13 (5), 601-603 (1989)
+  MEDLINE   91370843
+  REMARK    SEQUENCE FROM N.A.
+REFERENCE   2  (residues 1 to 212)
+  AUTHORS   Wright,C.S. and Raikhel,N.
+  TITLE     Sequence variability in three wheat germ agglutinin isolectins:
+            products of multiple genes in polyploid wheat
+  JOURNAL   J. Mol. Evol. 28 (4), 327-336 (1989)
+  MEDLINE   89279931
+  REMARK    SEQUENCE OF 27-197.
+            TISSUE=GERM
+REFERENCE   3  (residues 1 to 212)
+  AUTHORS   Wright,C.S.
+  TITLE     2.2 A resolution structure analysis of two refined
+            N-acetylneuraminyl-lactose--wheat germ agglutinin isolectin
+            complexes
+  JOURNAL   J. Mol. Biol. 215 (4), 635-651 (1990)
+  MEDLINE   91039324
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS).
+REFERENCE   4  (residues 1 to 212)
+  AUTHORS   Wright,C.S.
+  TITLE     Comparison of the refined crystal structures of two wheat germ
+            isolectins
+  JOURNAL   J. Mol. Biol. 209 (3), 475-487 (1989)
+  MEDLINE   90064507
+  REMARK    X-RAY CRYSTALLOGRAPHY.
+COMMENT     -------------------------------------------------------------------
+            This SWISS-PROT entry is copyright. It is produced through a
+            collaboration between the Swiss Institute of Bioinformatics and
+            the EMBL outstation - the European Bioinformatics Institute.
+            The original entry is available from http://www.expasy.ch/sprot
+            and http://www.ebi.ac.uk/sprot
+            ------------------------------------------------------------------.
+            [FUNCTION] N-ACETYL-D-GLUCOSAMINE / N-ACETYL-D-NEURAMINIC ACID
+            BINDING LECTIN.
+            [SUBUNIT] HOMODIMER, U-SHAPED.
+            [MISCELLANEOUS] THE 4 SITES PROPOSED FOR BINDING TO CARBOHYDRATES
+            (N-ACETYL-D- GLUCOSAMINE) OF RECEPTOR MOLECULES ARE ON THE SURFACE
+            OF THE AGGLUTININ MOLECULE.
+            [SIMILARITY] THERE ARE THREE VARIANTS OF WGA; VARIABILITY AMONG
+            THEM IS OBSERVED AT A TOTAL OF 10 POSITIONS.
+            [SIMILARITY] CONTAINS FOUR COPIES OF A CHITIN-BINDING DOMAIN.
+FEATURES             Location/Qualifiers
+     source          1..212
+                     /organism="Triticum aestivum"
+                     /db_xref="taxon:4565"
+     Region          1..26
+                     /region_name="Signal"
+     Protein         1..212
+                     /product="AGGLUTININ ISOLECTIN 1 PRECURSOR"
+     Region          27..197
+                     /region_name="Mature chain"
+                     /note="AGGLUTININ ISOLECTIN 1."
+     Region          27..69
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 1."
+     Bond            bond(29,44)
+                     /bond_type="disulfide"
+     Region          30
+                     /region_name="Beta-strand region"
+     Region          31..33
+                     /region_name="Helical region"
+     Region          34..35
+                     /region_name="Hydrogen bonded turn"
+     Region          36..37
+                     /region_name="Beta-strand region"
+     Bond            bond(38,50)
+                     /bond_type="disulfide"
+     Region          39..41
+                     /region_name="Helical region"
+     Region          43..44
+                     /region_name="Beta-strand region"
+     Bond            bond(43,57)
+                     /bond_type="disulfide"
+     Region          46..47
+                     /region_name="Hydrogen bonded turn"
+     Region          50..52
+                     /region_name="Beta-strand region"
+     Region          54..57
+                     /region_name="Helical region"
+     Region          59..60
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(61,66)
+                     /bond_type="disulfide"
+     Region          63
+                     /region_name="Conflict"
+                     /note="N -> D (IN REF. 2 AND 3)."
+     Region          70..112
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 2."
+     Region          71
+                     /region_name="Beta-strand region"
+     Bond            bond(72,87)
+                     /bond_type="disulfide"
+     Region          74..76
+                     /region_name="Helical region"
+     Region          77..78
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(81,93)
+                     /bond_type="disulfide"
+     Region          82..84
+                     /region_name="Helical region"
+     Bond            bond(86,100)
+                     /bond_type="disulfide"
+     Region          86..87
+                     /region_name="Beta-strand region"
+     Region          89..90
+                     /region_name="Hydrogen bonded turn"
+     Region          92..95
+                     /region_name="Beta-strand region"
+     Region          97..100
+                     /region_name="Helical region"
+     Region          102..103
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(104,109)
+                     /bond_type="disulfide"
+     Region          106
+                     /region_name="Beta-strand region"
+     Region          113..155
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 3."
+     Region          114
+                     /region_name="Beta-strand region"
+     Bond            bond(115,130)
+                     /bond_type="disulfide"
+     Region          116
+                     /region_name="Beta-strand region"
+     Region          117..119
+                     /region_name="Helical region"
+     Region          120..121
+                     /region_name="Hydrogen bonded turn"
+     Region          122
+                     /region_name="Beta-strand region"
+     Bond            bond(124,136)
+                     /bond_type="disulfide"
+     Region          125..127
+                     /region_name="Helical region"
+     Region          129..130
+                     /region_name="Beta-strand region"
+     Bond            bond(129,143)
+                     /bond_type="disulfide"
+     Region          132..133
+                     /region_name="Hydrogen bonded turn"
+     Region          135..138
+                     /region_name="Beta-strand region"
+     Region          140..143
+                     /region_name="Helical region"
+     Region          145..146
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(147,152)
+                     /bond_type="disulfide"
+     Region          149
+                     /region_name="Beta-strand region"
+     Region          156..197
+                     /region_name="Domain"
+                     /note="CHITIN-BINDING 4."
+     Region          157
+                     /region_name="Beta-strand region"
+     Bond            bond(158,173)
+                     /bond_type="disulfide"
+     Region          159
+                     /region_name="Beta-strand region"
+     Region          160..162
+                     /region_name="Helical region"
+     Region          163..164
+                     /region_name="Hydrogen bonded turn"
+     Region          165
+                     /region_name="Beta-strand region"
+     Bond            bond(167,179)
+                     /bond_type="disulfide"
+     Region          168..170
+                     /region_name="Helical region"
+     Region          172..173
+                     /region_name="Beta-strand region"
+     Bond            bond(172,186)
+                     /bond_type="disulfide"
+     Region          175..176
+                     /region_name="Hydrogen bonded turn"
+     Region          178..181
+                     /region_name="Beta-strand region"
+     Region          183..186
+                     /region_name="Helical region"
+     Region          188..189
+                     /region_name="Hydrogen bonded turn"
+     Bond            bond(190,195)
+                     /bond_type="disulfide"
+     Region          198..212
+                     /region_name="Propeptide"
+ORIGIN      
+        1 mkmmstrala lgaaavlafa aataqaqrcg eqgsnmecpn nlccsqygyc gmggdycgkg
+       61 cqngacwtsk rcgsqaggat ctnnqccsqy gycgfgaeyc gagcqggpcr adikcgsqag
+      121 gklcpnnlcc sqwgfcglgs efcgggcqsg acstdkpcgk daggrvctnn yccskwgscg
+      181 igpgycgagc qsggcdgvfa eaitanstll qe
+//
+
+
+
+LOCUS       JGAGLR        422 aa                    BCT       30-SEP-1993
+DEFINITION  lactose-binding protein precursor - Agrobacterium radiobacter.
+ACCESSION   JGAGLR
+PID         g72546
+VERSION     JGAGLR  GI:72546
+DBSOURCE    pir: locus JGAGLR;
+            summary: #length 422 #molecular-weight 45903 #checksum 5428;
+            genetic: #gene lacE;
+            superfamily: glycerol-3-phosphate-binding protein;
+            PIR dates: 31-Dec-1992 #sequence_revision 31-Dec-1992 #text_change
+            30-Sep-1993.
+KEYWORDS    binding protein-dependent transport system; lactose transport;
+            membrane protein.
+SOURCE      Agrobacterium radiobacter.
+  ORGANISM  Agrobacterium radiobacter
+            Eubacteria; Proteobacteria; alpha subdivision; Rhizobiaceae;
+            Agrobacterium.
+REFERENCE   1  (residues 1 to 422)
+  AUTHORS   Williams,S.G., Greenwood,J.A. and Jones,C.W.
+  TITLE     Molecular analysis of the lac operon encoding the
+            binding-protein-dependent lactose transport system and
+            beta-galactosidase in Agrobacterium radiobacter
+  JOURNAL   Mol. Microbiol. 6 (13), 1755-1768 (1992)
+  MEDLINE   92334152
+FEATURES             Location/Qualifiers
+     source          1..422
+                     /organism="Agrobacterium radiobacter"
+                     /db_xref="taxon:358"
+     Region          1..28
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..422
+                     /product="lactose-binding protein precursor"
+     Region          29..422
+                     /region_name="product"
+                     /note="lactose-binding protein"
+ORIGIN      
+        1 mdysrllkrs vsaaltaaal lcstaafage vtiwcwdpnf nvaimkeaae rytakhpdtt
+       61 fnivdfakad veqklqtgla sgmtdtlpdi vliedygaqk ylqsfpgsfa altdkidfsg
+      121 fakykvdlmt legqvygvpf dsgvtglyyr tdyleqagfk pedmqnltwd rfieigkevk
+      181 aktghemmal dandggliri mmqsggqwyf nedgslnitg naalkaalet qarivnerva
+      241 kptsgsndgi raltsgdvas vlrgvwitgt vksqpdqagk waltaipkln iegataasnl
+      301 ggsswyvlea saekdeaidf lneiyakdld fyqkilterg avgsllaart geayqkpddf
+      361 fggqtvwqnf adwlvqvpav nygiftneld tavtanfpal vkgtpvdevl kaiedqaagq
+      421 iq
+//
+
+
+
+LOCUS       LAPG          141 aa                    MAM       31-JAN-1997
+DEFINITION  alpha-lactalbumin precursor - pig.
+ACCESSION   LAPG
+PID         g2144477
+VERSION     LAPG  GI:2144477
+DBSOURCE    pir: locus LAPG;
+            summary: #length 141 #molecular-weight 16174 #checksum 5735;
+            superfamily: lysozyme c;
+            PIR dates: 31-Mar-1992 #sequence_revision 31-Jan-1997 #text_change
+            31-Jan-1997.
+KEYWORDS    calcium; glycosyltransferase; hexosyltransferase; mammary gland;
+            milk.
+SOURCE      domestic pig.
+  ORGANISM  Sus scrofa domestica
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Artiodactyla; Suiformes; Suina;
+            Suidae; Sus.
+REFERENCE   1  (residues 1 to 141)
+  AUTHORS   Godovac-Zimmermann,J., Conti,A. and Napolitano,L.
+  TITLE     The complete primary structure of alpha-lactalbumin isolated from
+            pig (Sus scrofa) milk
+  JOURNAL   Biol. Chem. Hoppe-Seyler 371 (7), 649-653 (1990)
+  MEDLINE   91025636
+REFERENCE   2  (residues 1 to 141)
+  AUTHORS   Das Gupta,N.A., Alexander,L.J. and Beattie,C.W.
+  TITLE     The sequence of a porcine cDNA encoding alpha-lactalbumin
+  JOURNAL   Gene 110 (2), 265-266 (1992)
+  MEDLINE   92165071
+COMMENT     On May 31, 1997 this sequence version replaced gi:67419.
+            In the presence of this protein, the N-acetyllactosamine synthase
+            (EC 2.4.1.90) functions as lactose synthase (EC 2.4.1.22).
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Sus scrofa domestica"
+                     /db_xref="taxon:9825"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..141
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) B component"
+     Region          20..141
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+     Bond            bond(25,138)
+                     /bond_type="disulfide"
+     Bond            bond(47,129)
+                     /bond_type="disulfide"
+     Bond            bond(80,95)
+                     /bond_type="disulfide"
+     Bond            bond(91,109)
+                     /bond_type="disulfide"
+     Region          97..106
+                     /region_name="domain"
+                     /note="calcium binding"
+ORIGIN      
+        1 mmsfvsllvv gilfpaiqak qftkcelsqv lkdmdgygdi tlpewictif hisgydtkti
+       61 vhdngsteyg lfqinnklwc rdnqiqskni cgiscdkfld ddltddmmca kkildnegid
+      121 ywlahkalcs ekldqwlcek m
+//
+
+
+
+LOCUS       LABO          142 aa                    MAM       17-FEB-1995
+DEFINITION  alpha-lactalbumin precursor - bovine.
+ACCESSION   LABO
+PID         g1070492
+VERSION     LABO  GI:1070492
+DBSOURCE    pir: locus LABO;
+            summary: #length 142 #molecular-weight 16246 #checksum 747;
+            genetic: #introns 45/1; 98/1; 123/2;
+            superfamily: lysozyme c;
+            PIR dates: #sequence_revision 06-Feb-1995 #text_change 17-Feb-1995.
+KEYWORDS    calcium; glycoprotein; glycosyltransferase; hexosyltransferase;
+            mammary gland; milk.
+SOURCE      Bos taurus.
+  ORGANISM  Bos taurus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Artiodactyla; Ruminantia; Pecora;
+            Bovoidea; Bovidae; Bovinae; Bos.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Vanaman,T.C., Brew,K. and Hill,R.L.
+  TITLE     The disulfide bonds of bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 245 (17), 4583-4590 (1970)
+  MEDLINE   71103834
+  REMARK    annotation; disulfide bonds
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Brew,K., Castellino,F.J., Vanaman,T.C. and Hill,R.L.
+  TITLE     The complete amino acid sequence of bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 245 (17), 4570-4582 (1970)
+  MEDLINE   71103833
+  REMARK    annotation
+            this sequence has been revised in reference A92476
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Bell,K., Hopper,K.E., McKenzie,H.A., Murphy,W.H. and Shaw,D.C.
+  TITLE     A comparison of bovine alpha-lactalbumin A and B of Droughtmaster
+  JOURNAL   Biochim. Biophys. Acta 214 (3), 437-444 (1970)
+  MEDLINE   71159904
+  REMARK    allelic variants, tentative sequences
+REFERENCE   4  (residues 1 to 142)
+  AUTHORS   Hiraoka,Y., Segawa,T., Kuwajima,K., Sugai,S. and Murai,N.
+  TITLE     alpha-Lactalbumin: a calcium metalloprotein
+  JOURNAL   Biochem. Biophys. Res. Commun. 95 (3), 1098-1104 (1980)
+  MEDLINE   81021144
+  REMARK    annotation; calcium binding
+REFERENCE   5  (residues 1 to 142)
+  AUTHORS   Kronman,M.J., Sinha,S.K. and Brew,K.
+  TITLE     Characteristics of the binding of Ca2+ and other divalent metal
+            ions to bovine alpha-lactalbumin
+  JOURNAL   J. Biol. Chem. 256 (16), 8582-8587 (1981)
+  MEDLINE   81264272
+  REMARK    annotation; calcium binding
+REFERENCE   6  (residues 1 to 142)
+  AUTHORS   Shewale,J.G., Sinha,S.K. and Brew,K.
+  TITLE     Evolution of alpha-lactalbumins. The complete amino acid sequence
+            of the alpha-lactalbumin from a marsupial (Macropus rufogriseus)
+            and corrections to regions of sequence in bovine and goat
+            alpha-lactalbumins
+  JOURNAL   J. Biol. Chem. 259 (8), 4947-4956 (1984)
+  MEDLINE   84185596
+REFERENCE   7  (residues 1 to 142)
+  AUTHORS   Vilotte,J.L., Soulier,S., Mercier,J.C., Gaye,P., Hue-Delahaie,D.
+            and Furet,J.P.
+  TITLE     Complete nucleotide sequence of bovine alpha-lactalbumin gene:
+            comparison with its rat counterpart
+  JOURNAL   Biochimie 69 (6-7), 609-620 (1987)
+  MEDLINE   88078102
+REFERENCE   8  (residues 1 to 142)
+  AUTHORS   Hurley,W.L. and Schuler,L.A.
+  TITLE     Molecular cloning and nucleotide sequence of a bovine
+            alpha-lactalbumin cDNA
+  JOURNAL   Gene 61 (1), 119-122 (1987)
+  MEDLINE   88167838
+REFERENCE   9  (residues 1 to 142)
+  AUTHORS   Wang,M., Scott,W.A., Rao,K.R., Udey,J., Conner,G.E. and Brew,K.
+  TITLE     Recombinant bovine alpha-lactalbumin obtained by limited
+            proteolysis of a fusion protein expressed at high levels in
+            Escherichia coli
+  JOURNAL   J. Biol. Chem. 264 (35), 21116-21121 (1989)
+  MEDLINE   90078209
+COMMENT     On Nov 22, 1995 this sequence version replaced gi:67420.
+            Alpha-lactalbumin is synthesized only in the mammary gland.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Bos taurus"
+                     /db_xref="taxon:9913"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..142
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..142
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Site            44
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Site            64
+                     /site_type="binding"
+                     /note="carbohydrate (Asn) (covalent)"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+     Site            130
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+     Site            131
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+     Site            132
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+     Site            133
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+     Site            135
+                     /site_type="binding"
+                     /note="calcium (Glu, Cys, Ser, Glu, Lys, Asp)"
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkcevfre lkdlkgyggv slpewvcttf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphssn icniscdkfl dddltddimc vkkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+LOCUS       LART          159 aa                    ROD       04-OCT-1996
+DEFINITION  alpha-lactalbumin precursor (version 1) - rat.
+ACCESSION   LART
+PID         g67423
+VERSION     LART  GI:67423
+DBSOURCE    pir: locus LART;
+            summary: #length 159 #molecular-weight 17850 #checksum 6317;
+            genetic: #introns 45/1; 98/1; 123/2;
+            superfamily: lysozyme c;
+            PIR dates: 17-Dec-1982 #sequence_revision 25-Feb-1985 #text_change
+            04-Oct-1996.
+KEYWORDS    calcium; glycoprotein; glycosyltransferase; hexosyltransferase;
+            mammary gland; milk.
+SOURCE      Norway rat.
+  ORGANISM  Rattus norvegicus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae;
+            Murinae; Rattus.
+REFERENCE   1  (residues 1 to 159)
+  AUTHORS   Dandekar,A.M. and Qasba,P.K.
+  TITLE     Rat alpha-lactalbumin has a 17-residue-long COOH-terminal
+            hydrophobic extension as judged by sequence analysis of the cDNA
+            clones
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 78 (8), 4853-4857 (1981)
+  MEDLINE   82060152
+REFERENCE   2  (residues 1 to 159)
+  AUTHORS   Qasba,P.K. and Safaya,S.K.
+  TITLE     Similarity of the nucleotide sequences of rat alpha-lactalbumin and
+            chicken lysozyme genes
+  JOURNAL   Nature 308 (5957), 377-380 (1984)
+  MEDLINE   84168126
+COMMENT     See LART2.
+FEATURES             Location/Qualifiers
+     source          1..159
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..159
+                     /product="alpha-lactalbumin precursor (version 1)"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..159
+                     /region_name="product"
+                     /note="alpha-lactalbumin, version 1"
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Site            64
+                     /site_type="binding"
+                     /note="carbohydrate (Asn) (covalent)"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mmrfvplfla cislpafqat eftkcevsha iedmdgyqgi sllewtcvlf htsgydsqai
+       61 vknngsteyg lfqisnrnwc kssefpesen icdiscdkfl ddeladdivc akkivaikgi
+      121 dywkahkpmc sekleqwrce kpgapalvvp alnsetpvp
+//
+
+
+
+LOCUS       LAGP          178 aa                    ROD       11-NOV-1996
+DEFINITION  alpha-lactalbumin precursor - guinea pig.
+ACCESSION   LAGP
+PID         g67422
+VERSION     LAGP  GI:67422
+DBSOURCE    pir: locus LAGP;
+            summary: #length 178 #molecular-weight 20247 #checksum 5819;
+            genetic: #introns 45/1; 98/1; 123/2 #note the list of introns may
+            be incomplete;
+            superfamily: lysozyme c;
+            PIR dates: #sequence_revision 13-Jun-1983 #text_change 11-Nov-1996.
+KEYWORDS    calcium; glycosyltransferase; hexosyltransferase; mammary gland;
+            milk.
+SOURCE      domestic guinea pig.
+  ORGANISM  Cavia porcellus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Rodentia; Hystricognathi; Caviidae;
+            Cavia.
+REFERENCE   1  (residues 1 to 178)
+  AUTHORS   Brew,K.
+  TITLE     The complete amino-acid sequence of guinea-pig -lactalbumin
+  JOURNAL   Eur. J. Biochem. 27 (2), 341-353 (1972)
+  MEDLINE   72255347
+REFERENCE   2  (residues 1 to 178)
+  AUTHORS   Hall,L., Craig,R.K., Edbrooke,M.R. and Campbell,P.N.
+  TITLE     Comparison of the nucleotide sequence of cloned human and
+            guinea-pig pre-alpha-lactalbumin cDNA with that of chick
+            pre-lysozyme cDNA suggests evolution from a common ancestral gene
+  JOURNAL   Nucleic Acids Res. 10 (11), 3503-3515 (1982)
+  MEDLINE   82247223
+REFERENCE   3  (residues 1 to 178)
+  AUTHORS   Laird,J.E., Jack,L., Hall,L., Boulton,A.P., Parker,D. and
+            Craig,R.K.
+  TITLE     Structure and expression of the guinea-pig alpha-lactalbumin gene
+  JOURNAL   Biochem. J. 254 (1), 85-94 (1988)
+  MEDLINE   89025693
+FEATURES             Location/Qualifiers
+     source          1..178
+                     /organism="Cavia porcellus"
+                     /db_xref="taxon:10141"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..178
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..142
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mmsffplllv gilfpavqak qltkcalshe lndlagyrdi tlpewlciif hisgydtqai
+       61 vknsdhkeyg lfqindkdfc essttvqsrn icdiscdkll dddltddimc vkkildikgi
+      121 dywlahkplc sdkleqwyce aqrapdvsan palpihpepl fphatpvylf lplnmicl
+//
+
+
+
+LOCUS       LAHU          142 aa                    PRI       11-NOV-1996
+DEFINITION  alpha-lactalbumin precursor - human.
+ACCESSION   LAHU
+PID         g67416
+VERSION     LAHU  GI:67416
+DBSOURCE    pir: locus LAHU;
+            summary: #length 142 #molecular-weight 16225 #checksum 7328;
+            genetic: #gene GDB:LALBA ##cross-references GDB:120134
+            #map_position 12q13-12q13 #introns 45/1; 98/1; 123/2;
+            superfamily: lysozyme c;
+            PIR dates: #sequence_revision 13-Jun-1983 #text_change 11-Nov-1996.
+KEYWORDS    calcium; glycosyltransferase; hexosyltransferase; mammary gland;
+            milk.
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Primates; Catarrhini; Hominidae;
+            Homo.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Findlay,J.B. and Brew,K.
+  TITLE     The complete amino-acid sequence of human -lactalbumin
+  JOURNAL   Eur. J. Biochem. 27 (1), 65-86 (1972)
+  MEDLINE   72250267
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Hall,L., Craig,R.K., Edbrooke,M.R. and Campbell,P.N.
+  TITLE     Comparison of the nucleotide sequence of cloned human and
+            guinea-pig pre-alpha-lactalbumin cDNA with that of chick
+            pre-lysozyme cDNA suggests evolution from a common ancestral gene
+  JOURNAL   Nucleic Acids Res. 10 (11), 3503-3515 (1982)
+  MEDLINE   82247223
+REFERENCE   3  (residues 1 to 142)
+  AUTHORS   Hall,L., Emery,D.C., Davies,M.S., Parker,D. and Craig,R.K.
+  TITLE     Organization and sequence of the human alpha-lactalbumin gene
+  JOURNAL   Biochem. J. 242 (3), 735-742 (1987)
+  MEDLINE   87241386
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..142
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..142
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+     Bond            bond(25,139)
+                     /bond_type="disulfide"
+     Bond            bond(47,130)
+                     /bond_type="disulfide"
+     Bond            bond(80,96)
+                     /bond_type="disulfide"
+     Bond            bond(92,110)
+                     /bond_type="disulfide"
+ORIGIN      
+        1 mrffvplflv gilfpailak qftkcelsql lkdidgyggi alpelictmf htsgydtqai
+       61 vennesteyg lfqisnklwc kssqvpqsrn icdiscdkfl ddditddimc akkildikgi
+      121 dywlahkalc tekleqwlce kl
+//
+
+
+
+LOCUS       JS0610       1928 aa                    ROD       26-JUL-1996
+DEFINITION  beta-galactosidase (EC 3.2.1.23) / glycosylceramidase (EC 3.2.1.62)
+            precursor - rat.
+ACCESSION   JS0610
+PID         g92009
+VERSION     JS0610  GI:92009
+DBSOURCE    pir: locus JS0610;
+            summary: #length 1928 #molecular-weight 217266 #checksum 2799;
+            PIR dates: 31-Mar-1992 #sequence_revision 31-Mar-1992 #text_change
+            26-Jul-1996.
+KEYWORDS    glycosidase; hydrolase; transmembrane protein.
+SOURCE      Norway rat.
+  ORGANISM  Rattus norvegicus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae;
+            Murinae; Rattus.
+REFERENCE   1  (residues 1 to 1928)
+  AUTHORS   Buller,H.A., Kothe,M.J., Goldman,D.A., Grubman,S.A., Sasak,W.V.,
+            Matsudaira,P.T., Montgomery,R.K. and Grand,R.J.
+  TITLE     Coordinate expression of lactase-phlorizin hydrolase mRNA and
+            enzyme levels in rat intestine during development
+  JOURNAL   J. Biol. Chem. 265 (12), 6978-6983 (1990)
+  MEDLINE   90216734
+  REMARK    Erratum:[J Biol Chem 1990 Aug 5;265(22):13410]
+REFERENCE   2  (residues 1 to 1928)
+  AUTHORS   Duluc,I., Boukamel,R., Mantei,N., Semenza,G., Raul,F. and
+            Freund,J.N.
+  TITLE     Sequence of the precursor of intestinal lactase-phlorizin hydrolase
+            from fetal rat
+  JOURNAL   Gene 103 (2), 275-276 (1991)
+  MEDLINE   91365258
+COMMENT     This enzyme is involved in the hydrolysis of lactose,
+            glycosylceramides and other beta-glucosides.
+FEATURES             Location/Qualifiers
+     source          1..1928
+                     /organism="Rattus norvegicus"
+                     /db_xref="taxon:10116"
+     Protein         1..1928
+                     /product="beta-galactosidase / glycosylceramidase (EC
+                     3.2.1.62) precursor"
+                     /EC_number="3.2.1.23"
+                     /note="lactase; pre-pro-lactase-phlorizin hydrolase"
+     Region          1..21
+                     /region_name="domain"
+                     /note="signal sequence"
+     Region          22..1928
+                     /region_name="product"
+                     /note="pro-lactase-phlorizin hydrolase"
+     Region          1884..1902
+                     /region_name="domain"
+                     /note="transmembrane"
+ORIGIN      
+        1 melpwtalfl stvllglscq gsdwesdrnf isaagpltnd lvlnlnyppg kqgsdvvsgn
+       61 tdhllcqqpl psflsqyfss lrasqvthyk vllswaqllp tgssknpdqe avqcyrqllq
+      121 slkdaqlepm vvlchqtppt ssaiqregaf adlfadyatl afqsfgdlve iwftfsdlek
+      181 vimdlphkdl kasalqtlsn ahrrafeiyh rkfssqggkl svvlkaedip ellpdpalaa
+      241 lvqgsvdfls ldlsyecqsv atlpqklsel qnlepkvkvf iytlkledcp atgtspssll
+      301 islleainkd qiqtvgfdvn aflsctsnse espscsltds lalqteqqqe tavpsspgsa
+      361 yqrvwaafan qsreerdafl qdvfpegflw gistgafnve ggwaeggrgp siwdhygnln
+      421 aaegqatakv asdsyhkpas dvallrgira qvykfsisws glfplgqkst pnrqgvayyn
+      481 klidrlldsh iepmatlfhw dlpqalqeqg gwqnesvvea fldyaafcfs tfgdrvklwv
+      541 tfhepwvmsy agygtgqhap aisdpgmasf kvahlilkah artwhlydlh hrlqqqgrvg
+      601 ivlnsdlaep ldrkspqdla aaerflhfml gwfahpifvd gdypttsaqi qhinqqcghp
+      661 laqlpeftea ekrllkgsad flglshytsr liskagrqtc tssydniggf sqhvdpewpq
+      721 taspwirvvp wgirrllrfa smeytkgklp iflagngmpv geeadlfdds vrvnyfnwyi
+      781 nevlkavked lvdvrsyivr slidgyegpl gfsqrfglyh vnfndssrpr tprksaylft
+      841 siiekngfsa kkvkrnplpv radftsrarv tdslpsevps kakisvekfs kqprferdlf
+      901 ydgrfrddfl wgvssspyqi eggwnadgkg psiwdnftht pgngvkdnat gdvacdsyhq
+      961 ldadlnilrt lkvksyrfsi swsrifptgr nstinkqgvd yynrlidslv dnnifpmvtl
+     1021 fhwdlpqalq diggwenpsl ielfdsyady cfktfgdrvk fwmtfnepwc hvvlgyssgi
+     1081 fppsvqepgw lpykvshivi kaharvyhty dekyrseqkg vislslnthw aepkdpglqr
+     1141 dveaadrmlq ftmgwfahpi fkngdypdvm kwtvgnrsel qhlassrlpt fteeeknyvr
+     1201 gtadvfchnt ytsvfvqhst prlnppsydd dmelkliemn sstgvmhqdv pwgtrrllnw
+     1261 ikeeygnipi yitengqgle nptlddteri fyhktyinea lkaykldgvd lrgysawtlm
+     1321 ddfewllgyt mrfglyyvdf nhvsrprtar asaryypdli anngmplare deflygefpk
+     1381 gfiwsaasas yqvegawrad gkglsiwdtf shtplrignd dngdvacdsy hkiaedvval
+     1441 qnlgvshyrf siawsrilpd gttkfineag lsyyvrfida llaagitpqv tiyhwdlpqa
+     1501 lqdvggwene tivqrfkeya dvlfqrlgdr vkfwitlnep fviaaqgygt gvsapgisfr
+     1561 pgtapyiagh nlikahaeaw hlyndvyrar qggtisitis sdwgeprdpt nrehveaars
+     1621 yvqfmggwfa hpifkngdyp evmktrirdr slgaglnksr lpefteseks rikgtfdffg
+     1681 fnhnttvlay nldypaafss fdadrgvasi adsswpvsgs fwlkvtpfgf rrilnwlkee
+     1741 ynnppiyvte ngvsrrgepe lndtdriyyl rsyinealka vhdkvdlrgy tvwsimdnfe
+     1801 watgfaerfg vhfvnrsdps lpriprasak fyativrcng fpdpaqgphp clqqpedaap
+     1861 taspvqsevp flglmlgiae aqtalyvlfa llllgacsla fltyntgrrs kqgnaqpsqh
+     1921 qlspissf
+//
+
+
+
+LOCUS       S45342        155 aa                    INV       06-DEC-1996
+DEFINITION  galactose/lactose-binding lectin I precursor - Geodia cydonium
+            (fragment).
+ACCESSION   S45342
+PID         g2133438
+VERSION     S45342  GI:2133438
+DBSOURCE    pir: locus S45342;
+            summary: #length 155 #checksum 1333;
+            PIR dates: 06-Jan-1995 #sequence_revision 06-Dec-1996 #text_change
+            06-Dec-1996;
+            punctuation in sequence.
+KEYWORDS    lectin.
+SOURCE      Geodia cydonium.
+  ORGANISM  Geodia cydonium
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Porifera;
+            Demospongiae; Tetractinomorpha; Astrophorida; Geodiidae; Geodia.
+REFERENCE   1  (residues 1 to 155)
+  AUTHORS   Pfeifer,K., Haasemann,M., Gamulin,V., Bretting,H., Fahrenholz,F.
+            and Muller,W.E.
+  TITLE     S-type lectins occur also in invertebrates: high conservation of
+            the carbohydrate recognition domain in the lectin genes from the
+            marine sponge Geodia cydonium
+  JOURNAL   Glycobiology 3 (2), 179-184 (1993)
+  MEDLINE   93257788
+REFERENCE   2  (residues 1 to 155)
+  AUTHORS   Mueller, W.E.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-MAY-1992) to the EMBL Data Library
+COMMENT     On May 29, 1997 this sequence version replaced gi:630477.
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="Geodia cydonium"
+                     /db_xref="taxon:6047"
+     Protein         1..155
+                     /product="galactose/lactose-binding lectin I precursor"
+                     /note="lectin, 15K"
+     Region          16..155
+                     /region_name="product"
+                     /note="galactose/lactose-binding lectin I"
+ORIGIN      
+        1 dpydeddryn safaqvfgdl kltvpsltvg qtievlyvnp ptgalsinlv tadddvalhf
+       61 nprysstggy lvlntllngn wqtevhptgf pfpannvktr vlvsitvqek dfllqvngid
+      121 ittfsyhpgl sydkvrhitc kglehavlea igvty
+//
+
+
+
+LOCUS       A25848        142 aa                    MAM       04-OCT-1996
+DEFINITION  alpha-lactalbumin precursor - goat.
+ACCESSION   A25848
+PID         g89831
+VERSION     A25848  GI:89831
+DBSOURCE    pir: locus A25848;
+            summary: #length 142 #molecular-weight 16254 #checksum 9161;
+            genetic: #gene alpha-LA #introns 45/1; 98/1; 123/2;
+            superfamily: lysozyme c;
+            PIR dates: 19-Nov-1988 #sequence_revision 19-Nov-1988 #text_change
+            04-Oct-1996.
+KEYWORDS    calcium; glycosyltransferase; hexosyltransferase; mammary gland;
+            milk.
+SOURCE      goat.
+  ORGANISM  Capra hircus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Artiodactyla; Ruminantia; Pecora;
+            Bovoidea; Bovidae; Caprinae; Capra.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Kumagai,I., Tamaki,E., Kakinuma,S. and Miura,K.
+  TITLE     Molecular cloning and sequencing of cDNA encoding goat pre
+            alpha-lactalbumin
+  JOURNAL   J. Biochem. 101 (2), 511-517 (1987)
+  MEDLINE   87222269
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Vilotte,J.L., Soulier,S., Printz,C. and Mercier,J.C.
+  TITLE     Sequence of the goat alpha-lactalbumin-encoding gene: comparison
+            with the bovine gene and evidence of related sequences in the goat
+            genome
+  JOURNAL   Gene 98 (2), 271-276 (1991)
+  MEDLINE   91200677
+COMMENT     This protein induces lactose synthesis in the mammary gland.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Capra hircus"
+                     /db_xref="taxon:9925"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..142
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..142
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkcevfqk lkdlkdyggv slpewvctaf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphsrn icniscdkfl dddltddivc akkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+LOCUS       JC1302        143 aa                    ROD       03-MAR-1995
+DEFINITION  alpha-lactalbumin precursor - mouse.
+ACCESSION   JC1302
+PID         g280944
+VERSION     JC1302  GI:280944
+DBSOURCE    pir: locus JC1302;
+            summary: #length 143 #molecular-weight 16260 #checksum 8332;
+            genetic: #gene m-alpha-La #introns 46/1; 99/1; 124/2;
+            superfamily: lysozyme c;
+            PIR dates: 05-Mar-1993 #sequence_revision 05-Mar-1993 #text_change
+            03-Mar-1995.
+KEYWORDS    calcium; glycosyltransferase; hexosyltransferase; mammary gland;
+            milk.
+SOURCE      house mouse.
+  ORGANISM  Mus musculus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Rodentia; Sciurognathi; Muridae;
+            Murinae; Mus.
+REFERENCE   1  (residues 1 to 143)
+  AUTHORS   Vilotte,J.L., Soulier,S. and Mercier,J.C.
+  TITLE     Sequence of the murine alpha-lactalbumin-encoding cDNA:
+            interspecies comparison of the coding frame and deduced pre-protein
+  JOURNAL   Gene 112 (2), 251-255 (1992)
+  MEDLINE   92210008
+REFERENCE   2  (residues 1 to 143)
+  AUTHORS   Vilotte,J.L. and Soulier,S.
+  TITLE     Isolation and characterization of the mouse
+            alpha-lactalbumin-encoding gene: interspecies comparison, tissue-
+            and stage-specific expression
+  JOURNAL   Gene 119 (2), 287-292 (1992)
+  MEDLINE   93013000
+COMMENT     As a regulatory subunit of lactose synthase, alpha-lactalbumin
+            changes the substrate specificity of galactosyltransferase in the
+            mammary gland, making glucose a good acceptor substrate for this
+            enzyme. In other tissues, galactosyltransferase transfers galactose
+            onto the N-acetylglucosamine of the oligosaccharidechains in
+            glycoproteins.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Mus musculus"
+                     /db_xref="taxon:10090"
+     Protein         1..143
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          1..20
+                     /region_name="domain"
+                     /note="signal sequence"
+     Region          21..143
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+     Site            65
+                     /site_type="binding"
+                     /note="carbohydrate (Asn) (covalent)"
+ORIGIN      
+        1 mmhfvplflv cilslpafqa teltkckvsh aikdidgyqg isllewacvl fhtsgydtqa
+       61 vvndngstey glfqisdrfw ckssefpese nicgiscdkl lddeldddia cakkilaikg
+      121 idywkaykpm csekleqwrc ekp
+//
+
+
+
+LOCUS       S01178        142 aa                    MAM       15-JUN-1994
+DEFINITION  alpha-lactalbumin precursor - sheep.
+ACCESSION   S01178
+PID         g89842
+VERSION     S01178  GI:89842
+DBSOURCE    pir: locus S01178;
+            summary: #length 142 #molecular-weight 16226 #checksum 8594;
+            superfamily: lysozyme c;
+            PIR dates: 30-Sep-1989 #sequence_revision 30-Sep-1989 #text_change
+            15-Jun-1994.
+KEYWORDS    calcium; extracellular protein; glycosyltransferase;
+            hexosyltransferase; mammary gland; milk.
+SOURCE      sheep.
+  ORGANISM  Ovis aries
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Mammalia; Eutheria; Artiodactyla; Ruminantia; Pecora;
+            Bovoidea; Bovidae; Caprinae; Ovis.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Mercier,J.C., Haze,G., Gaye,P., Petrissant,G., Hue,D. and
+            Boisnard,M.
+  TITLE     Amino terminal sequence of the precursor of ovine alpha-lactalbumin
+  JOURNAL   Biochem. Biophys. Res. Commun. 85 (2), 662-670 (1978)
+  MEDLINE   79103273
+REFERENCE   2  (residues 1 to 142)
+  AUTHORS   Gaye,P., Hue-Delahaie,D., Mercier,J.C., Soulier,S., Vilotte,J.L.
+            and Furet,J.P.
+  TITLE     Complete nucleotide sequence of ovine alpha-lactalbumin mRNA
+  JOURNAL   Biochimie 69 (6-7), 601-608 (1987)
+  MEDLINE   88078101
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Ovis aries"
+                     /db_xref="taxon:9940"
+     Region          1..19
+                     /region_name="domain"
+                     /note="signal sequence"
+     Protein         1..142
+                     /product="alpha-lactalbumin precursor"
+                     /note="lactose synthase (EC 2.4.1.22) protein B"
+     Region          20..142
+                     /region_name="product"
+                     /note="alpha-lactalbumin"
+ORIGIN      
+        1 mmsfvslllv gilfhatqae qltkceafqk lkdlkdyggv slpewvctaf htsgydtqai
+       61 vqnndsteyg lfqinnkiwc kddqnphsrn icniscdkfl dddltddivc akkildkvgi
+      121 nywlahkalc sekldqwlce kl
+//
+
+
+
+
